@@ -1,0 +1,809 @@
+codigo_ibge,nome,capital,uf,nome_estado,regiao,latitude,longitude,codigo_uf,siafi_id,ddd,fuso_horario
+1500107,Abaetetuba,0,PA,Pará,Norte,-1.72183,-48.8788,15,401,91,America/Sao_Paulo
+1500131,Abel Figueiredo,0,PA,Pará,Norte,-4.95333,-48.3933,15,375,94,America/Sao_Paulo
+1700251,Abreulândia,0,TO,Tocantins,Norte,-9.62101,-49.1518,17,337,63,America/Sao_Paulo
+2100055,Açailândia,0,MA,Maranhão,Nordeste,-4.94714,-47.5004,21,961,99,America/Sao_Paulo
+1500206,Acará,0,PA,Pará,Norte,-1.95383,-48.1985,15,403,91,America/Sao_Paulo
+5100102,Acorizal,0,MT,Mato Grosso,Centro-Oeste,-15.194,-56.3632,51,9001,65,America/Porto_Velho
+1200013,Acrelândia,0,AC,Acre,Norte,-9.82581,-66.8972,12,643,68,America/Rio_Branco
+2100105,Afonso Cunha,0,MA,Maranhão,Nordeste,-4.13631,-43.3275,21,701,98,America/Sao_Paulo
+1500305,Afuá,0,PA,Pará,Norte,-0.154874,-50.3861,15,405,91,America/Sao_Paulo
+1500347,Água Azul do Norte,0,PA,Pará,Norte,-6.79053,-50.4791,15,383,94,America/Sao_Paulo
+5100201,Água Boa,0,MT,Mato Grosso,Centro-Oeste,-14.051,-52.1601,51,9191,66,America/Porto_Velho
+2100154,Água Doce do Maranhão,0,MA,Maranhão,Nordeste,-2.84048,-42.1189,21,104,98,America/Sao_Paulo
+1700301,Aguiarnópolis,0,TO,Tocantins,Norte,-6.55409,-47.4702,17,72,63,America/Sao_Paulo
+2100204,Alcântara,0,MA,Maranhão,Nordeste,-2.39574,-44.4062,21,703,98,America/Sao_Paulo
+2100303,Aldeias Altas,0,MA,Maranhão,Nordeste,-4.62621,-43.4689,21,705,99,America/Sao_Paulo
+1500404,Alenquer,0,PA,Pará,Norte,-1.94623,-54.7384,15,407,93,America/Sao_Paulo
+1700350,Aliança do Tocantins,0,TO,Tocantins,Norte,-11.3056,-48.9361,17,9441,63,America/Sao_Paulo
+1700400,Almas,0,TO,Tocantins,Norte,-11.5706,-47.1792,17,9207,63,America/Sao_Paulo
+1500503,Almeirim,0,PA,Pará,Norte,-1.52904,-52.5788,15,409,93,America/Sao_Paulo
+5100250,Alta Floresta,0,MT,Mato Grosso,Centro-Oeste,-9.86674,-56.0867,51,8987,66,America/Porto_Velho
+1100015,Alta Floresta D'Oeste,0,RO,Rondônia,Norte,-11.9283,-61.9953,11,33,69,America/Porto_Velho
+1500602,Altamira,0,PA,Pará,Norte,-3.20407,-52.21,15,411,93,America/Sao_Paulo
+2100402,Altamira do Maranhão,0,MA,Maranhão,Nordeste,-4.16598,-45.4706,21,707,98,America/Sao_Paulo
+1400050,Alto Alegre,0,RR,Roraima,Norte,2.98858,-61.3072,14,305,95,America/Porto_Velho
+2100436,Alto Alegre do Maranhão,0,MA,Maranhão,Nordeste,-4.213,-44.446,21,106,99,America/Sao_Paulo
+2100477,Alto Alegre do Pindaré,0,MA,Maranhão,Nordeste,-3.66689,-45.8421,21,108,98,America/Sao_Paulo
+1100379,Alto Alegre dos Parecis,0,RO,Rondônia,Norte,-12.132,-61.835,11,2,69,America/Porto_Velho
+5100300,Alto Araguaia,0,MT,Mato Grosso,Centro-Oeste,-17.3153,-53.2181,51,9005,66,America/Porto_Velho
+5100359,Alto Boa Vista,0,MT,Mato Grosso,Centro-Oeste,-11.6732,-51.3883,51,127,66,America/Porto_Velho
+5100409,Alto Garças,0,MT,Mato Grosso,Centro-Oeste,-16.9462,-53.5272,51,9007,66,America/Porto_Velho
+5100508,Alto Paraguai,0,MT,Mato Grosso,Centro-Oeste,-14.5137,-56.4776,51,9009,65,America/Porto_Velho
+1100403,Alto Paraíso,0,RO,Rondônia,Norte,-9.71429,-63.3188,11,675,69,America/Porto_Velho
+2100501,Alto Parnaíba,0,MA,Maranhão,Nordeste,-9.10273,-45.9303,21,709,99,America/Sao_Paulo
+5100607,Alto Taquari,0,MT,Mato Grosso,Centro-Oeste,-17.8241,-53.2792,51,9911,66,America/Porto_Velho
+1300029,Alvarães,0,AM,Amazonas,Norte,-3.22727,-64.8007,13,289,97,America/Porto_Velho
+1700707,Alvorada,0,TO,Tocantins,Norte,-12.4785,-49.1249,17,9213,63,America/Sao_Paulo
+1100346,Alvorada D'Oeste,0,RO,Rondônia,Norte,-11.3463,-62.2847,11,35,69,America/Porto_Velho
+1400027,Amajari,0,RR,Roraima,Norte,3.64571,-61.3692,14,26,95,America/Porto_Velho
+1600105,Amapá,0,AP,Amapá,Norte,2.05267,-50.7957,16,601,96,America/Sao_Paulo
+2100550,Amapá do Maranhão,0,MA,Maranhão,Nordeste,-1.67524,-46.0024,21,110,98,America/Sao_Paulo
+2100600,Amarante do Maranhão,0,MA,Maranhão,Nordeste,-5.56913,-46.7473,21,711,99,America/Sao_Paulo
+1300060,Amaturá,0,AM,Amazonas,Norte,-3.37455,-68.2005,13,291,97,America/Porto_Velho
+1500701,Anajás,0,PA,Pará,Norte,-0.996811,-49.9354,15,413,91,America/Sao_Paulo
+2100709,Anajatuba,0,MA,Maranhão,Nordeste,-3.26269,-44.6126,21,713,98,America/Sao_Paulo
+1300086,Anamã,0,AM,Amazonas,Norte,-3.56697,-61.3963,13,293,97,America/Porto_Velho
+1701002,Ananás,0,TO,Tocantins,Norte,-6.36437,-48.0735,17,9219,63,America/Sao_Paulo
+1500800,Ananindeua,0,PA,Pará,Norte,-1.36391,-48.3743,15,415,91,America/Sao_Paulo
+1500859,Anapu,0,PA,Pará,Norte,-3.46985,-51.2003,15,40,91,America/Sao_Paulo
+2100808,Anapurus,0,MA,Maranhão,Nordeste,-3.67577,-43.1014,21,715,98,America/Sao_Paulo
+1701051,Angico,0,TO,Tocantins,Norte,-6.39179,-47.8611,17,165,63,America/Sao_Paulo
+1300102,Anori,0,AM,Amazonas,Norte,-3.74603,-61.6575,13,203,97,America/Porto_Velho
+1701101,Aparecida do Rio Negro,0,TO,Tocantins,Norte,-9.94139,-47.9638,17,9713,63,America/Sao_Paulo
+5100805,Apiacás,0,MT,Mato Grosso,Centro-Oeste,-9.53981,-57.4587,51,9773,66,America/Porto_Velho
+2100832,Apicum-Açu,0,MA,Maranhão,Nordeste,-1.45862,-45.0864,21,112,98,America/Sao_Paulo
+1300144,Apuí,0,AM,Amazonas,Norte,-7.19409,-59.896,13,969,97,America/Porto_Velho
+1701309,Aragominas,0,TO,Tocantins,Norte,-7.16005,-48.5291,17,167,63,America/Sao_Paulo
+1701903,Araguacema,0,TO,Tocantins,Norte,-8.80755,-49.5569,17,9237,63,America/Sao_Paulo
+1702000,Araguaçu,0,TO,Tocantins,Norte,-12.9289,-49.8231,17,9239,63,America/Sao_Paulo
+5101001,Araguaiana,0,MT,Mato Grosso,Centro-Oeste,-15.7291,-51.8341,51,9869,66,America/Porto_Velho
+1702109,Araguaína,0,TO,Tocantins,Norte,-7.19238,-48.2044,17,9241,63,America/Sao_Paulo
+5101209,Araguainha,0,MT,Mato Grosso,Centro-Oeste,-16.857,-53.0318,51,9023,66,America/Porto_Velho
+1702158,Araguanã,0,TO,Tocantins,Norte,-6.58225,-48.6395,17,169,63,America/Sao_Paulo
+2100873,Araguanã,0,MA,Maranhão,Nordeste,-2.94644,-45.6589,21,114,98,America/Sao_Paulo
+1702208,Araguatins,0,TO,Tocantins,Norte,-5.64659,-48.1232,17,9243,63,America/Sao_Paulo
+2100907,Araioses,0,MA,Maranhão,Nordeste,-2.89091,-41.905,21,717,98,America/Sao_Paulo
+2100956,Arame,0,MA,Maranhão,Nordeste,-4.88347,-46.0032,21,1281,99,America/Sao_Paulo
+1702307,Arapoema,0,TO,Tocantins,Norte,-7.65463,-49.0637,17,9245,63,America/Sao_Paulo
+5101258,Araputanga,0,MT,Mato Grosso,Centro-Oeste,-15.4641,-58.3425,51,8989,65,America/Porto_Velho
+2101004,Arari,0,MA,Maranhão,Nordeste,-3.45214,-44.7665,21,719,98,America/Sao_Paulo
+5101308,Arenápolis,0,MT,Mato Grosso,Centro-Oeste,-14.4472,-56.8437,51,9025,65,America/Porto_Velho
+5101407,Aripuanã,0,MT,Mato Grosso,Centro-Oeste,-10.1723,-59.4568,51,9027,66,America/Porto_Velho
+1100023,Ariquemes,0,RO,Rondônia,Norte,-9.90571,-63.0325,11,7,69,America/Porto_Velho
+1702406,Arraias,0,TO,Tocantins,Norte,-12.9287,-46.9359,17,9247,63,America/Sao_Paulo
+1200054,Assis Brasil,0,AC,Acre,Norte,-10.9298,-69.5738,12,157,68,America/Rio_Branco
+1300201,Atalaia do Norte,0,AM,Amazonas,Norte,-4.37055,-70.1967,13,205,97,America/Rio_Branco
+1702554,Augustinópolis,0,TO,Tocantins,Norte,-5.46863,-47.8863,17,9685,63,America/Sao_Paulo
+1500909,Augusto Corrêa,0,PA,Pará,Norte,-1.05109,-46.6147,15,417,91,America/Sao_Paulo
+1500958,Aurora do Pará,0,PA,Pará,Norte,-2.14898,-47.5677,15,389,91,America/Sao_Paulo
+1702703,Aurora do Tocantins,0,TO,Tocantins,Norte,-12.7105,-46.4076,17,9253,63,America/Sao_Paulo
+1300300,Autazes,0,AM,Amazonas,Norte,-3.58574,-59.1256,13,207,92,America/Porto_Velho
+1501006,Aveiro,0,PA,Pará,Norte,-3.60841,-55.3199,15,419,93,America/Sao_Paulo
+2101103,Axixá,0,MA,Maranhão,Nordeste,-2.83939,-44.062,21,721,98,America/Sao_Paulo
+1702901,Axixá do Tocantins,0,TO,Tocantins,Norte,-5.61275,-47.7701,17,9257,63,America/Sao_Paulo
+1703008,Babaçulândia,0,TO,Tocantins,Norte,-7.20923,-47.7613,17,9259,63,America/Sao_Paulo
+2101202,Bacabal,0,MA,Maranhão,Nordeste,-4.22447,-44.7832,21,723,99,America/Sao_Paulo
+2101251,Bacabeira,0,MA,Maranhão,Nordeste,-2.96452,-44.3164,21,116,98,America/Sao_Paulo
+2101301,Bacuri,0,MA,Maranhão,Nordeste,-1.6965,-45.1328,21,725,98,America/Sao_Paulo
+2101350,Bacurituba,0,MA,Maranhão,Nordeste,-2.71,-44.7329,21,118,98,America/Sao_Paulo
+1501105,Bagre,0,PA,Pará,Norte,-1.90057,-50.1987,15,421,91,America/Sao_Paulo
+1501204,Baião,0,PA,Pará,Norte,-2.79021,-49.6694,15,423,91,America/Sao_Paulo
+2101400,Balsas,0,MA,Maranhão,Nordeste,-7.53214,-46.0372,21,727,99,America/Sao_Paulo
+1703057,Bandeirantes do Tocantins,0,TO,Tocantins,Norte,-7.75612,-48.5836,17,74,63,America/Sao_Paulo
+1501253,Bannach,0,PA,Pará,Norte,-7.34779,-50.3959,15,42,94,America/Sao_Paulo
+2101509,Barão de Grajaú,0,MA,Maranhão,Nordeste,-6.74463,-43.0261,21,729,99,America/Sao_Paulo
+5101605,Barão de Melgaço,0,MT,Mato Grosso,Centro-Oeste,-16.2067,-55.9623,51,9031,65,America/Porto_Velho
+1501303,Barcarena,0,PA,Pará,Norte,-1.51187,-48.6195,15,425,91,America/Sao_Paulo
+1300409,Barcelos,0,AM,Amazonas,Norte,-0.983373,-62.9311,13,209,97,America/Porto_Velho
+5101704,Barra do Bugres,0,MT,Mato Grosso,Centro-Oeste,-15.0702,-57.1878,51,9033,65,America/Porto_Velho
+2101608,Barra do Corda,0,MA,Maranhão,Nordeste,-5.49682,-45.2485,21,731,99,America/Sao_Paulo
+5101803,Barra do Garças,0,MT,Mato Grosso,Centro-Oeste,-15.8804,-52.264,51,9035,66,America/Porto_Velho
+1703073,Barra do Ouro,0,TO,Tocantins,Norte,-7.69593,-47.6776,17,76,63,America/Sao_Paulo
+1300508,Barreirinha,0,AM,Amazonas,Norte,-2.79886,-57.0679,13,211,92,America/Porto_Velho
+2101707,Barreirinhas,0,MA,Maranhão,Nordeste,-2.75863,-42.8232,21,733,98,America/Sao_Paulo
+1703107,Barrolândia,0,TO,Tocantins,Norte,-9.83404,-48.7252,17,9693,63,America/Sao_Paulo
+2101772,Bela Vista do Maranhão,0,MA,Maranhão,Nordeste,-3.72618,-45.3075,21,122,98,America/Sao_Paulo
+2101731,Belágua,0,MA,Maranhão,Nordeste,-3.15485,-43.5122,21,120,98,America/Sao_Paulo
+1501402,Belém,1,PA,Pará,Norte,-1.4554,-48.4898,15,427,91,America/Sao_Paulo
+1501451,Belterra,0,PA,Pará,Norte,-2.63609,-54.9374,15,44,93,America/Sao_Paulo
+2101806,Benedito Leite,0,MA,Maranhão,Nordeste,-7.21037,-44.5577,21,735,99,America/Sao_Paulo
+1501501,Benevides,0,PA,Pará,Norte,-1.36183,-48.2434,15,429,91,America/Sao_Paulo
+1300607,Benjamin Constant,0,AM,Amazonas,Norte,-4.37768,-70.0342,13,213,97,America/Rio_Branco
+2101905,Bequimão,0,MA,Maranhão,Nordeste,-2.44162,-44.7842,21,737,98,America/Sao_Paulo
+2101939,Bernardo do Mearim,0,MA,Maranhão,Nordeste,-4.62666,-44.7608,21,124,99,America/Sao_Paulo
+1703206,Bernardo Sayão,0,TO,Tocantins,Norte,-7.87481,-48.8893,17,9695,63,America/Sao_Paulo
+1300631,Beruri,0,AM,Amazonas,Norte,-3.89874,-61.3616,13,295,97,America/Porto_Velho
+1400100,Boa Vista,1,RR,Roraima,Norte,2.82384,-60.6753,14,301,95,America/Porto_Velho
+2101970,Boa Vista do Gurupi,0,MA,Maranhão,Nordeste,-1.77614,-46.3002,21,126,98,America/Sao_Paulo
+1300680,Boa Vista do Ramos,0,AM,Amazonas,Norte,-2.97409,-57.5873,13,297,92,America/Porto_Velho
+1300706,Boca do Acre,0,AM,Amazonas,Norte,-8.74232,-67.3919,13,215,97,America/Rio_Branco
+2102002,Bom Jardim,0,MA,Maranhão,Nordeste,-3.54129,-45.606,21,955,98,America/Sao_Paulo
+2102036,Bom Jesus das Selvas,0,MA,Maranhão,Nordeste,-4.47638,-46.8641,21,128,98,America/Sao_Paulo
+5101852,Bom Jesus do Araguaia,0,MT,Mato Grosso,Centro-Oeste,-12.1706,-51.5032,51,1078,66,America/Porto_Velho
+1501576,Bom Jesus do Tocantins,0,PA,Pará,Norte,-5.0424,-48.6047,15,575,94,America/Sao_Paulo
+1703305,Bom Jesus do Tocantins,0,TO,Tocantins,Norte,-8.96306,-48.165,17,341,63,America/Sao_Paulo
+2102077,Bom Lugar,0,MA,Maranhão,Nordeste,-4.37311,-45.0326,21,130,99,America/Sao_Paulo
+1400159,Bonfim,0,RR,Roraima,Norte,3.36161,-59.8333,14,307,95,America/Porto_Velho
+1501600,Bonito,0,PA,Pará,Norte,-1.36745,-47.3066,15,431,91,America/Sao_Paulo
+1300805,Borba,0,AM,Amazonas,Norte,-4.39154,-59.5874,13,217,92,America/Porto_Velho
+1501709,Bragança,0,PA,Pará,Norte,-1.06126,-46.7826,15,433,91,America/Sao_Paulo
+1501725,Brasil Novo,0,PA,Pará,Norte,-3.29792,-52.534,15,639,93,America/Sao_Paulo
+1703602,Brasilândia do Tocantins,0,TO,Tocantins,Norte,-8.38918,-48.4822,17,339,63,America/Sao_Paulo
+1200104,Brasiléia,0,AC,Acre,Norte,-10.995,-68.7497,12,105,68,America/Rio_Branco
+5101902,Brasnorte,0,MT,Mato Grosso,Centro-Oeste,-12.1474,-57.9833,51,9873,66,America/Porto_Velho
+1703701,Brejinho de Nazaré,0,TO,Tocantins,Norte,-11.0058,-48.5683,17,9273,63,America/Sao_Paulo
+2102101,Brejo,0,MA,Maranhão,Nordeste,-3.67796,-42.7527,21,739,98,America/Sao_Paulo
+2102150,Brejo de Areia,0,MA,Maranhão,Nordeste,-4.334,-45.581,21,132,98,America/Sao_Paulo
+1501758,Brejo Grande do Araguaia,0,PA,Pará,Norte,-5.69822,-48.4103,15,577,94,America/Sao_Paulo
+1501782,Breu Branco,0,PA,Pará,Norte,-3.77191,-49.5735,15,625,94,America/Sao_Paulo
+1501808,Breves,0,PA,Pará,Norte,-1.68036,-50.4791,15,435,91,America/Sao_Paulo
+1200138,Bujari,0,AC,Acre,Norte,-9.81528,-67.955,12,645,68,America/Rio_Branco
+1501907,Bujaru,0,PA,Pará,Norte,-1.51762,-48.0381,15,437,91,America/Sao_Paulo
+2102200,Buriti,0,MA,Maranhão,Nordeste,-3.94169,-42.9179,21,741,98,America/Sao_Paulo
+2102309,Buriti Bravo,0,MA,Maranhão,Nordeste,-5.83239,-43.8353,21,743,99,America/Sao_Paulo
+1703800,Buriti do Tocantins,0,TO,Tocantins,Norte,-5.31448,-48.2271,17,9715,63,America/Sao_Paulo
+2102325,Buriticupu,0,MA,Maranhão,Nordeste,-4.32375,-46.4409,21,134,98,America/Sao_Paulo
+2102358,Buritirana,0,MA,Maranhão,Nordeste,-5.59823,-47.0131,21,136,99,America/Sao_Paulo
+1100452,Buritis,0,RO,Rondônia,Norte,-10.1943,-63.8324,11,4,69,America/Porto_Velho
+1300839,Caapiranga,0,AM,Amazonas,Norte,-3.31537,-61.2206,13,299,92,America/Porto_Velho
+1100031,Cabixi,0,RO,Rondônia,Norte,-13.4945,-60.552,11,37,69,America/Porto_Velho
+1100601,Cacaulândia,0,RO,Rondônia,Norte,-10.349,-62.9043,11,677,69,America/Porto_Velho
+5102504,Cáceres,0,MT,Mato Grosso,Centro-Oeste,-16.0764,-57.6818,51,9047,65,America/Porto_Velho
+1502004,Cachoeira do Arari,0,PA,Pará,Norte,-1.01226,-48.9503,15,439,91,America/Sao_Paulo
+1501956,Cachoeira do Piriá,0,PA,Pará,Norte,-1.75974,-46.5459,15,46,91,America/Sao_Paulo
+2102374,Cachoeira Grande,0,MA,Maranhão,Nordeste,-2.93074,-44.0528,21,138,98,America/Sao_Paulo
+1703826,Cachoeirinha,0,TO,Tocantins,Norte,-6.1156,-47.9234,17,171,63,America/Sao_Paulo
+1100049,Cacoal,0,RO,Rondônia,Norte,-11.4343,-61.4562,11,9,69,America/Porto_Velho
+2102408,Cajapió,0,MA,Maranhão,Nordeste,-2.87326,-44.6741,21,745,98,America/Sao_Paulo
+2102507,Cajari,0,MA,Maranhão,Nordeste,-3.32742,-45.0145,21,747,98,America/Sao_Paulo
+1600204,Calçoene,0,AP,Amapá,Norte,2.50475,-50.9512,16,603,96,America/Sao_Paulo
+1502103,Cametá,0,PA,Pará,Norte,-2.24295,-49.4979,15,441,91,America/Sao_Paulo
+2102556,Campestre do Maranhão,0,MA,Maranhão,Nordeste,-6.17075,-47.3625,21,140,99,America/Sao_Paulo
+5102603,Campinápolis,0,MT,Mato Grosso,Centro-Oeste,-14.5162,-52.893,51,9863,66,America/Porto_Velho
+1100700,Campo Novo de Rondônia,0,RO,Rondônia,Norte,-10.5712,-63.6266,11,679,69,America/Porto_Velho
+5102637,Campo Novo do Parecis,0,MT,Mato Grosso,Centro-Oeste,-13.6587,-57.8907,51,9777,65,America/Porto_Velho
+5102678,Campo Verde,0,MT,Mato Grosso,Centro-Oeste,-15.545,-55.1626,51,9779,66,America/Porto_Velho
+5102686,Campos de Júlio,0,MT,Mato Grosso,Centro-Oeste,-13.7242,-59.2858,51,1032,65,America/Porto_Velho
+1703842,Campos Lindos,0,TO,Tocantins,Norte,-7.98956,-46.8645,17,173,63,America/Sao_Paulo
+1502152,Canaã dos Carajás,0,PA,Pará,Norte,-6.49659,-49.8776,15,48,94,America/Sao_Paulo
+5102694,Canabrava do Norte,0,MT,Mato Grosso,Centro-Oeste,-11.0556,-51.8209,51,129,66,America/Porto_Velho
+5102702,Canarana,0,MT,Mato Grosso,Centro-Oeste,-13.5515,-52.2705,51,9193,66,America/Porto_Velho
+1100809,Candeias do Jamari,0,RO,Rondônia,Norte,-8.7907,-63.7005,11,681,69,America/Porto_Velho
+2102606,Cândido Mendes,0,MA,Maranhão,Nordeste,-1.43265,-45.7161,21,749,98,America/Sao_Paulo
+1400175,Cantá,0,RR,Roraima,Norte,2.60994,-60.6058,14,28,95,America/Porto_Velho
+2102705,Cantanhede,0,MA,Maranhão,Nordeste,-3.63757,-44.383,21,751,98,America/Sao_Paulo
+1300904,Canutama,0,AM,Amazonas,Norte,-6.52582,-64.3953,13,219,97,America/Porto_Velho
+1502202,Capanema,0,PA,Pará,Norte,-1.20529,-47.1778,15,443,91,America/Sao_Paulo
+2102754,Capinzal do Norte,0,MA,Maranhão,Nordeste,-4.7236,-44.328,21,142,99,America/Sao_Paulo
+1502301,Capitão Poço,0,PA,Pará,Norte,-1.74785,-47.0629,15,445,91,America/Sao_Paulo
+1200179,Capixaba,0,AC,Acre,Norte,-10.566,-67.686,12,647,68,America/Rio_Branco
+1400209,Caracaraí,0,RR,Roraima,Norte,1.82766,-61.1304,14,303,95,America/Porto_Velho
+1301001,Carauari,0,AM,Amazonas,Norte,-4.88161,-66.9086,13,221,97,America/Porto_Velho
+1301100,Careiro,0,AM,Amazonas,Norte,-3.76803,-60.369,13,223,92,America/Porto_Velho
+1301159,Careiro da Várzea,0,AM,Amazonas,Norte,-3.314,-59.5557,13,965,92,America/Porto_Velho
+1703867,Cariri do Tocantins,0,TO,Tocantins,Norte,-11.8881,-49.1609,17,327,63,America/Sao_Paulo
+5102793,Carlinda,0,MT,Mato Grosso,Centro-Oeste,-9.94912,-55.8417,51,1034,66,America/Porto_Velho
+1703883,Carmolândia,0,TO,Tocantins,Norte,-7.03262,-48.3978,17,175,63,America/Sao_Paulo
+1400233,Caroebe,0,RR,Roraima,Norte,0.884203,-59.6959,14,30,95,America/Porto_Velho
+2102804,Carolina,0,MA,Maranhão,Nordeste,-7.33584,-47.4634,21,753,99,America/Sao_Paulo
+1703891,Carrasco Bonito,0,TO,Tocantins,Norte,-5.31415,-48.0314,17,177,63,America/Sao_Paulo
+2102903,Carutapera,0,MA,Maranhão,Nordeste,-1.19696,-46.0085,21,755,98,America/Sao_Paulo
+1703909,Caseara,0,TO,Tocantins,Norte,-9.27612,-49.9521,17,9717,63,America/Sao_Paulo
+1502400,Castanhal,0,PA,Pará,Norte,-1.29797,-47.9167,15,447,91,America/Sao_Paulo
+5102850,Castanheira,0,MT,Mato Grosso,Centro-Oeste,-11.1251,-58.6081,51,9783,66,America/Porto_Velho
+1100908,Castanheiras,0,RO,Rondônia,Norte,-11.4253,-61.9482,11,691,69,America/Porto_Velho
+2103000,Caxias,0,MA,Maranhão,Nordeste,-4.86505,-43.3617,21,757,99,America/Sao_Paulo
+2103109,Cedral,0,MA,Maranhão,Nordeste,-2.00027,-44.5281,21,759,98,America/Sao_Paulo
+1704105,Centenário,0,TO,Tocantins,Norte,-8.96103,-47.3304,17,343,63,America/Sao_Paulo
+2103125,Central do Maranhão,0,MA,Maranhão,Nordeste,-2.19831,-44.8254,21,144,98,America/Sao_Paulo
+2103158,Centro do Guilherme,0,MA,Maranhão,Nordeste,-2.44891,-46.0345,21,146,98,America/Sao_Paulo
+2103174,Centro Novo do Maranhão,0,MA,Maranhão,Nordeste,-2.12696,-46.1228,21,148,98,America/Sao_Paulo
+1100056,Cerejeiras,0,RO,Rondônia,Norte,-13.187,-60.8168,11,27,69,America/Porto_Velho
+1705102,Chapada da Natividade,0,TO,Tocantins,Norte,-11.6175,-47.7486,17,80,63,America/Sao_Paulo
+1704600,Chapada de Areia,0,TO,Tocantins,Norte,-10.1419,-49.1403,17,78,63,America/Sao_Paulo
+5103007,Chapada dos Guimarães,0,MT,Mato Grosso,Centro-Oeste,-15.4643,-55.7499,51,9059,65,America/Porto_Velho
+2103208,Chapadinha,0,MA,Maranhão,Nordeste,-3.73875,-43.3538,21,761,98,America/Sao_Paulo
+1502509,Chaves,0,PA,Pará,Norte,-0.164154,-49.987,15,449,91,America/Sao_Paulo
+1100924,Chupinguaia,0,RO,Rondônia,Norte,-12.5611,-60.8877,11,6,69,America/Porto_Velho
+2103257,Cidelândia,0,MA,Maranhão,Nordeste,-5.17465,-47.7781,21,150,99,America/Sao_Paulo
+5103056,Cláudia,0,MT,Mato Grosso,Centro-Oeste,-11.5075,-54.8835,51,9789,66,America/Porto_Velho
+1301209,Coari,0,AM,Amazonas,Norte,-4.09412,-63.1441,13,225,97,America/Porto_Velho
+5103106,Cocalinho,0,MT,Mato Grosso,Centro-Oeste,-14.3903,-51.0001,51,9865,66,America/Porto_Velho
+1301308,Codajás,0,AM,Amazonas,Norte,-3.83053,-62.0658,13,227,97,America/Porto_Velho
+2103307,Codó,0,MA,Maranhão,Nordeste,-4.45562,-43.8924,21,763,99,America/Sao_Paulo
+2103406,Coelho Neto,0,MA,Maranhão,Nordeste,-4.25245,-43.0108,21,765,98,America/Sao_Paulo
+1502608,Colares,0,PA,Pará,Norte,-0.936423,-48.2803,15,451,91,America/Sao_Paulo
+5103205,Colíder,0,MT,Mato Grosso,Centro-Oeste,-10.8135,-55.461,51,8979,66,America/Porto_Velho
+2103505,Colinas,0,MA,Maranhão,Nordeste,-6.03199,-44.2543,21,767,99,America/Sao_Paulo
+1705508,Colinas do Tocantins,0,TO,Tocantins,Norte,-8.05764,-48.4757,17,9311,63,America/Sao_Paulo
+1716703,Colméia,0,TO,Tocantins,Norte,-8.72463,-48.7638,17,9529,63,America/Sao_Paulo
+5103254,Colniza,0,MT,Mato Grosso,Centro-Oeste,-9.46121,-59.2252,51,1080,66,America/Porto_Velho
+1100064,Colorado do Oeste,0,RO,Rondônia,Norte,-13.1174,-60.5454,11,23,69,America/Porto_Velho
+1705557,Combinado,0,TO,Tocantins,Norte,-12.7917,-46.5388,17,9697,63,America/Sao_Paulo
+5103304,Comodoro,0,MT,Mato Grosso,Centro-Oeste,-13.6614,-59.7848,51,9883,65,America/Porto_Velho
+1502707,Conceição do Araguaia,0,PA,Pará,Norte,-8.26136,-49.2689,15,453,94,America/Sao_Paulo
+2103554,Conceição do Lago-Açu,0,MA,Maranhão,Nordeste,-3.85142,-44.8895,21,152,98,America/Sao_Paulo
+1705607,Conceição do Tocantins,0,TO,Tocantins,Norte,-12.2209,-47.2951,17,9313,63,America/Sao_Paulo
+1502756,Concórdia do Pará,0,PA,Pará,Norte,-1.99238,-47.9422,15,579,91,America/Sao_Paulo
+5103353,Confresa,0,MT,Mato Grosso,Centro-Oeste,-10.6437,-51.5699,51,131,66,America/Porto_Velho
+5103361,Conquista D'Oeste,0,MT,Mato Grosso,Centro-Oeste,-14.5381,-59.5444,51,1082,65,America/Porto_Velho
+2103604,Coroatá,0,MA,Maranhão,Nordeste,-4.13442,-44.1244,21,769,99,America/Sao_Paulo
+1100072,Corumbiara,0,RO,Rondônia,Norte,-12.9551,-60.8947,11,981,69,America/Porto_Velho
+1100080,Costa Marques,0,RO,Rondônia,Norte,-12.4367,-64.228,11,21,69,America/Porto_Velho
+5103379,Cotriguaçu,0,MT,Mato Grosso,Centro-Oeste,-9.85656,-58.4192,51,89,66,America/Porto_Velho
+1706001,Couto Magalhães,0,TO,Tocantins,Norte,-8.28411,-49.2473,17,9321,63,America/Sao_Paulo
+1706100,Cristalândia,0,TO,Tocantins,Norte,-10.5985,-49.1942,17,9323,63,America/Sao_Paulo
+1706258,Crixás do Tocantins,0,TO,Tocantins,Norte,-11.0994,-48.9152,17,82,63,America/Sao_Paulo
+1200203,Cruzeiro do Sul,0,AC,Acre,Norte,-7.62762,-72.6756,12,107,68,America/Rio_Branco
+5103403,Cuiabá,1,MT,Mato Grosso,Centro-Oeste,-15.601,-56.0974,51,9067,65,America/Porto_Velho
+1100940,Cujubim,0,RO,Rondônia,Norte,-9.36065,-62.5846,11,8,69,America/Porto_Velho
+1502764,Cumaru do Norte,0,PA,Pará,Norte,-7.81097,-50.7698,15,385,94,America/Sao_Paulo
+1502772,Curionópolis,0,PA,Pará,Norte,-6.09965,-49.6068,15,581,94,America/Sao_Paulo
+1502806,Curralinho,0,PA,Pará,Norte,-1.81179,-49.7952,15,455,91,America/Sao_Paulo
+1502855,Curuá,0,PA,Pará,Norte,-1.88775,-55.1168,15,50,93,America/Sao_Paulo
+1502905,Curuçá,0,PA,Pará,Norte,-0.733214,-47.8515,15,457,91,America/Sao_Paulo
+2103703,Cururupu,0,MA,Maranhão,Nordeste,-1.81475,-44.8644,21,771,98,America/Sao_Paulo
+5103437,Curvelândia,0,MT,Mato Grosso,Centro-Oeste,-15.6084,-57.9133,51,1084,65,America/Porto_Velho
+1600212,Cutias,0,AP,Amapá,Norte,0.970761,-50.8005,16,667,96,America/Sao_Paulo
+1706506,Darcinópolis,0,TO,Tocantins,Norte,-6.71591,-47.7597,17,179,63,America/Sao_Paulo
+2103752,Davinópolis,0,MA,Maranhão,Nordeste,-5.54637,-47.4217,21,154,99,America/Sao_Paulo
+5103452,Denise,0,MT,Mato Grosso,Centro-Oeste,-14.7324,-57.0583,51,9833,65,America/Porto_Velho
+5103502,Diamantino,0,MT,Mato Grosso,Centro-Oeste,-14.4037,-56.4366,51,9069,65,America/Porto_Velho
+1707009,Dianópolis,0,TO,Tocantins,Norte,-11.624,-46.8198,17,9341,63,America/Sao_Paulo
+1707108,Divinópolis do Tocantins,0,TO,Tocantins,Norte,-9.80018,-49.2169,17,9719,63,America/Sao_Paulo
+1707207,Dois Irmãos do Tocantins,0,TO,Tocantins,Norte,-9.25534,-49.0638,17,9345,63,America/Sao_Paulo
+5103601,Dom Aquino,0,MT,Mato Grosso,Centro-Oeste,-15.8099,-54.9223,51,9071,66,America/Porto_Velho
+1502939,Dom Eliseu,0,PA,Pará,Norte,-4.19944,-47.8245,15,583,94,America/Sao_Paulo
+2103802,Dom Pedro,0,MA,Maranhão,Nordeste,-5.03518,-44.4409,21,773,99,America/Sao_Paulo
+1707306,Dueré,0,TO,Tocantins,Norte,-11.3416,-49.2716,17,9347,63,America/Sao_Paulo
+2103901,Duque Bacelar,0,MA,Maranhão,Nordeste,-4.15002,-42.9477,21,775,98,America/Sao_Paulo
+1301407,Eirunepé,0,AM,Amazonas,Norte,-6.65677,-69.8662,13,229,97,America/Rio_Branco
+1502954,Eldorado do Carajás,0,PA,Pará,Norte,-6.10389,-49.3553,15,377,94,America/Sao_Paulo
+1301506,Envira,0,AM,Amazonas,Norte,-7.43789,-70.0281,13,231,97,America/Rio_Branco
+1200252,Epitaciolândia,0,AC,Acre,Norte,-11.0188,-68.7341,12,651,68,America/Rio_Branco
+1707405,Esperantina,0,TO,Tocantins,Norte,-5.36593,-48.5378,17,181,63,America/Sao_Paulo
+2104008,Esperantinópolis,0,MA,Maranhão,Nordeste,-4.87938,-44.6926,21,777,99,America/Sao_Paulo
+1100098,Espigão D'Oeste,0,RO,Rondônia,Norte,-11.5266,-61.0252,11,25,69,America/Porto_Velho
+2104057,Estreito,0,MA,Maranhão,Nordeste,-6.56077,-47.4431,21,963,99,America/Sao_Paulo
+1503002,Faro,0,PA,Pará,Norte,-2.16805,-56.7405,15,459,93,America/Sao_Paulo
+1707553,Fátima,0,TO,Tocantins,Norte,-10.7603,-48.9076,17,9683,63,America/Sao_Paulo
+1200302,Feijó,0,AC,Acre,Norte,-8.17054,-70.351,12,113,68,America/Rio_Branco
+2104073,Feira Nova do Maranhão,0,MA,Maranhão,Nordeste,-6.96508,-46.6786,21,156,99,America/Sao_Paulo
+5103700,Feliz Natal,0,MT,Mato Grosso,Centro-Oeste,-12.385,-54.9227,51,1036,66,America/Porto_Velho
+2104081,Fernando Falcão,0,MA,Maranhão,Nordeste,-6.16207,-44.8979,21,158,99,America/Sao_Paulo
+1600238,Ferreira Gomes,0,AP,Amapá,Norte,0.857256,-51.1795,16,611,96,America/Sao_Paulo
+1707652,Figueirópolis,0,TO,Tocantins,Norte,-12.1312,-49.1748,17,9667,63,America/Sao_Paulo
+5103809,Figueirópolis D'Oeste,0,MT,Mato Grosso,Centro-Oeste,-15.4439,-58.7391,51,9881,65,America/Porto_Velho
+1707702,Filadélfia,0,TO,Tocantins,Norte,-7.33501,-47.4954,17,9355,63,America/Sao_Paulo
+1503044,Floresta do Araguaia,0,PA,Pará,Norte,-7.55335,-49.7125,15,52,94,America/Sao_Paulo
+1301605,Fonte Boa,0,AM,Amazonas,Norte,-2.52342,-66.0942,13,233,97,America/Porto_Velho
+2104099,Formosa da Serra Negra,0,MA,Maranhão,Nordeste,-6.44017,-46.1916,21,160,99,America/Sao_Paulo
+1708205,Formoso do Araguaia,0,TO,Tocantins,Norte,-11.7976,-49.5316,17,9365,63,America/Sao_Paulo
+1708254,Fortaleza do Tabocão,0,TO,Tocantins,Norte,-9.05611,-48.5206,17,345,63,America/Sao_Paulo
+2104107,Fortaleza dos Nogueiras,0,MA,Maranhão,Nordeste,-6.95983,-46.1749,21,779,99,America/Sao_Paulo
+2104206,Fortuna,0,MA,Maranhão,Nordeste,-5.72792,-44.1565,21,781,99,America/Sao_Paulo
+1503077,Garrafão do Norte,0,PA,Pará,Norte,-1.92986,-47.0505,15,585,91,America/Sao_Paulo
+5103858,Gaúcha do Norte,0,MT,Mato Grosso,Centro-Oeste,-13.2443,-53.0809,51,1038,66,America/Porto_Velho
+5103908,General Carneiro,0,MT,Mato Grosso,Centro-Oeste,-15.7094,-52.7574,51,9077,66,America/Porto_Velho
+5103957,Glória D'Oeste,0,MT,Mato Grosso,Centro-Oeste,-15.768,-58.3108,51,135,65,America/Porto_Velho
+2104305,Godofredo Viana,0,MA,Maranhão,Nordeste,-1.40259,-45.7795,21,783,98,America/Sao_Paulo
+1503093,Goianésia do Pará,0,PA,Pará,Norte,-3.84338,-49.0974,15,627,94,America/Sao_Paulo
+1708304,Goianorte,0,TO,Tocantins,Norte,-8.77413,-48.9313,17,9699,63,America/Sao_Paulo
+1709005,Goiatins,0,TO,Tocantins,Norte,-7.71478,-47.3252,17,9533,63,America/Sao_Paulo
+2104404,Gonçalves Dias,0,MA,Maranhão,Nordeste,-5.1475,-44.3013,21,785,99,America/Sao_Paulo
+2104503,Governador Archer,0,MA,Maranhão,Nordeste,-5.02078,-44.2754,21,787,99,America/Sao_Paulo
+2104552,Governador Edison Lobão,0,MA,Maranhão,Nordeste,-5.74973,-47.3646,21,162,99,America/Sao_Paulo
+2104602,Governador Eugênio Barros,0,MA,Maranhão,Nordeste,-5.31897,-44.2469,21,789,99,America/Sao_Paulo
+1101005,Governador Jorge Teixeira,0,RO,Rondônia,Norte,-10.61,-62.7371,11,693,69,America/Porto_Velho
+2104628,Governador Luiz Rocha,0,MA,Maranhão,Nordeste,-5.47835,-44.0774,21,164,99,America/Sao_Paulo
+2104651,Governador Newton Bello,0,MA,Maranhão,Nordeste,-3.43245,-45.6619,21,166,98,America/Sao_Paulo
+2104677,Governador Nunes Freire,0,MA,Maranhão,Nordeste,-2.12899,-45.8777,21,168,98,America/Sao_Paulo
+2104701,Graça Aranha,0,MA,Maranhão,Nordeste,-5.40547,-44.3358,21,791,99,America/Sao_Paulo
+2104800,Grajaú,0,MA,Maranhão,Nordeste,-5.81367,-46.1462,21,793,99,America/Sao_Paulo
+1301654,Guajará,0,AM,Amazonas,Norte,-7.53797,-72.5907,13,967,97,America/Rio_Branco
+1100106,Guajará-Mirim,0,RO,Rondônia,Norte,-10.7889,-65.3296,11,1,69,America/Porto_Velho
+1709302,Guaraí,0,TO,Tocantins,Norte,-8.83543,-48.5114,17,9627,63,America/Sao_Paulo
+5104104,Guarantã do Norte,0,MT,Mato Grosso,Centro-Oeste,-9.96218,-54.9121,51,9887,66,America/Porto_Velho
+2104909,Guimarães,0,MA,Maranhão,Nordeste,-2.12755,-44.602,21,795,98,America/Sao_Paulo
+5104203,Guiratinga,0,MT,Mato Grosso,Centro-Oeste,-16.346,-53.7575,51,9083,66,America/Porto_Velho
+1503101,Gurupá,0,PA,Pará,Norte,-1.41412,-51.6338,15,461,91,America/Sao_Paulo
+1709500,Gurupi,0,TO,Tocantins,Norte,-11.7279,-49.068,17,9385,63,America/Sao_Paulo
+1301704,Humaitá,0,AM,Amazonas,Norte,-7.51171,-63.0327,13,235,97,America/Porto_Velho
+2105005,Humberto de Campos,0,MA,Maranhão,Nordeste,-2.59828,-43.4649,21,797,98,America/Sao_Paulo
+2105104,Icatu,0,MA,Maranhão,Nordeste,-2.77206,-44.0501,21,799,98,America/Sao_Paulo
+2105153,Igarapé do Meio,0,MA,Maranhão,Nordeste,-3.65771,-45.2114,21,170,98,America/Sao_Paulo
+2105203,Igarapé Grande,0,MA,Maranhão,Nordeste,-4.6625,-44.8558,21,801,99,America/Sao_Paulo
+1503200,Igarapé-Açu,0,PA,Pará,Norte,-1.12539,-47.626,15,463,91,America/Sao_Paulo
+1503309,Igarapé-Miri,0,PA,Pará,Norte,-1.97533,-48.9575,15,465,91,America/Sao_Paulo
+2105302,Imperatriz,0,MA,Maranhão,Nordeste,-5.51847,-47.4777,21,803,99,America/Sao_Paulo
+5104500,Indiavaí,0,MT,Mato Grosso,Centro-Oeste,-15.4921,-58.5802,51,9877,65,America/Porto_Velho
+1503408,Inhangapi,0,PA,Pará,Norte,-1.4349,-47.9114,15,467,91,America/Sao_Paulo
+5104526,Ipiranga do Norte,0,MT,Mato Grosso,Centro-Oeste,-12.2408,-56.1531,51,1184,65,America/Porto_Velho
+1301803,Ipixuna,0,AM,Amazonas,Norte,-7.04791,-71.6934,13,239,97,America/Rio_Branco
+1503457,Ipixuna do Pará,0,PA,Pará,Norte,-2.55992,-47.5059,15,621,91,America/Sao_Paulo
+1709807,Ipueiras,0,TO,Tocantins,Norte,-11.2329,-48.46,17,84,63,America/Sao_Paulo
+1400282,Iracema,0,RR,Roraima,Norte,2.18305,-61.0415,14,32,95,America/Porto_Velho
+1301852,Iranduba,0,AM,Amazonas,Norte,-3.27479,-60.19,13,9835,92,America/Porto_Velho
+1503507,Irituia,0,PA,Pará,Norte,-1.76984,-47.446,15,469,91,America/Sao_Paulo
+1710508,Itacajá,0,TO,Tocantins,Norte,-8.39293,-47.7726,17,9405,63,America/Sao_Paulo
+1301902,Itacoatiara,0,AM,Amazonas,Norte,-3.13861,-58.4449,13,241,92,America/Porto_Velho
+1710706,Itaguatins,0,TO,Tocantins,Norte,-5.77267,-47.4864,17,9409,63,America/Sao_Paulo
+2105351,Itaipava do Grajaú,0,MA,Maranhão,Nordeste,-5.14252,-45.7877,21,172,99,America/Sao_Paulo
+1503606,Itaituba,0,PA,Pará,Norte,-4.2667,-55.9926,15,471,93,America/Sao_Paulo
+1301951,Itamarati,0,AM,Amazonas,Norte,-6.43852,-68.2437,13,9837,97,America/Rio_Branco
+5104542,Itanhangá,0,MT,Mato Grosso,Centro-Oeste,-12.2259,-56.6463,51,1186,66,America/Porto_Velho
+2105401,Itapecuru Mirim,0,MA,Maranhão,Nordeste,-3.40202,-44.3508,21,807,98,America/Sao_Paulo
+1302009,Itapiranga,0,AM,Amazonas,Norte,-2.74081,-58.0293,13,243,92,America/Porto_Velho
+1710904,Itapiratins,0,TO,Tocantins,Norte,-8.37982,-48.1072,17,347,63,America/Sao_Paulo
+1711100,Itaporã do Tocantins,0,TO,Tocantins,Norte,-8.57172,-48.6895,17,9417,63,America/Sao_Paulo
+1101104,Itapuã do Oeste,0,RO,Rondônia,Norte,-9.19687,-63.1809,11,683,69,America/Porto_Velho
+5104559,Itaúba,0,MT,Mato Grosso,Centro-Oeste,-11.0614,-55.2766,51,9901,66,America/Porto_Velho
+1600253,Itaubal,0,AP,Amapá,Norte,0.602185,-50.6996,16,669,96,America/Sao_Paulo
+2105427,Itinga do Maranhão,0,MA,Maranhão,Nordeste,-4.45293,-47.5235,21,174,99,America/Sao_Paulo
+5104609,Itiquira,0,MT,Mato Grosso,Centro-Oeste,-17.2147,-54.1422,51,9091,65,America/Porto_Velho
+1503705,Itupiranga,0,PA,Pará,Norte,-5.13272,-49.3358,15,473,94,America/Sao_Paulo
+1503754,Jacareacanga,0,PA,Pará,Norte,-6.21469,-57.7544,15,631,93,America/Sao_Paulo
+5104807,Jaciara,0,MT,Mato Grosso,Centro-Oeste,-15.9548,-54.9733,51,9095,66,America/Porto_Velho
+1503804,Jacundá,0,PA,Pará,Norte,-4.44617,-49.1153,15,475,94,America/Sao_Paulo
+5104906,Jangada,0,MT,Mato Grosso,Centro-Oeste,-15.235,-56.4917,51,9861,65,America/Porto_Velho
+1302108,Japurá,0,AM,Amazonas,Norte,-1.88237,-66.9291,13,245,97,America/Porto_Velho
+1100114,Jaru,0,RO,Rondônia,Norte,-10.4318,-62.4788,11,15,69,America/Porto_Velho
+2105450,Jatobá,0,MA,Maranhão,Nordeste,-5.82282,-44.2153,21,176,99,America/Sao_Paulo
+1711506,Jaú do Tocantins,0,TO,Tocantins,Norte,-12.6509,-48.589,17,329,63,America/Sao_Paulo
+5105002,Jauru,0,MT,Mato Grosso,Centro-Oeste,-15.3342,-58.8723,51,8991,65,America/Porto_Velho
+2105476,Jenipapo dos Vieiras,0,MA,Maranhão,Nordeste,-5.36237,-45.6356,21,178,99,America/Sao_Paulo
+1100122,Ji-Paraná,0,RO,Rondônia,Norte,-10.8777,-61.9322,11,5,69,America/Porto_Velho
+2105500,João Lisboa,0,MA,Maranhão,Nordeste,-5.44363,-47.4064,21,809,99,America/Sao_Paulo
+1200328,Jordão,0,AC,Acre,Norte,-9.1908,-71.9503,12,653,68,America/Rio_Branco
+2105609,Joselândia,0,MA,Maranhão,Nordeste,-4.98611,-44.6958,21,811,99,America/Sao_Paulo
+5105101,Juara,0,MT,Mato Grosso,Centro-Oeste,-11.2639,-57.5244,51,9819,66,America/Porto_Velho
+1711803,Juarina,0,TO,Tocantins,Norte,-8.11951,-49.0643,17,349,63,America/Sao_Paulo
+5105150,Juína,0,MT,Mato Grosso,Centro-Oeste,-11.3728,-58.7483,51,9831,66,America/Porto_Velho
+2105658,Junco do Maranhão,0,MA,Maranhão,Nordeste,-1.83888,-46.09,21,180,98,America/Sao_Paulo
+1302207,Juruá,0,AM,Amazonas,Norte,-3.48438,-66.0718,13,247,97,America/Porto_Velho
+5105176,Juruena,0,MT,Mato Grosso,Centro-Oeste,-10.3178,-58.3592,51,9921,66,America/Porto_Velho
+1503903,Juruti,0,PA,Pará,Norte,-2.16347,-56.0889,15,477,93,America/Sao_Paulo
+5105200,Juscimeira,0,MT,Mato Grosso,Centro-Oeste,-16.0633,-54.8859,51,9189,66,America/Porto_Velho
+1302306,Jutaí,0,AM,Amazonas,Norte,-2.75814,-66.7595,13,249,97,America/Rio_Branco
+1302405,Lábrea,0,AM,Amazonas,Norte,-7.26413,-64.7948,13,251,97,America/Rio_Branco
+2105708,Lago da Pedra,0,MA,Maranhão,Nordeste,-4.56974,-45.1319,21,813,99,America/Sao_Paulo
+2105807,Lago do Junco,0,MA,Maranhão,Nordeste,-4.609,-45.049,21,815,99,America/Sao_Paulo
+2105948,Lago dos Rodrigues,0,MA,Maranhão,Nordeste,-4.61173,-44.9798,21,184,99,America/Sao_Paulo
+2105906,Lago Verde,0,MA,Maranhão,Nordeste,-3.94661,-44.826,21,817,99,America/Sao_Paulo
+1711902,Lagoa da Confusão,0,TO,Tocantins,Norte,-10.7906,-49.6199,17,367,63,America/Sao_Paulo
+2105922,Lagoa do Mato,0,MA,Maranhão,Nordeste,-6.05023,-43.5333,21,182,99,America/Sao_Paulo
+1711951,Lagoa do Tocantins,0,TO,Tocantins,Norte,-10.368,-47.538,17,353,63,America/Sao_Paulo
+2105963,Lagoa Grande do Maranhão,0,MA,Maranhão,Nordeste,-4.98893,-45.3816,21,186,99,America/Sao_Paulo
+1712009,Lajeado,0,TO,Tocantins,Norte,-9.74996,-48.3565,17,351,63,America/Sao_Paulo
+2105989,Lajeado Novo,0,MA,Maranhão,Nordeste,-6.18539,-47.0293,21,188,99,America/Sao_Paulo
+5105234,Lambari D'Oeste,0,MT,Mato Grosso,Centro-Oeste,-15.3188,-58.0046,51,137,65,America/Porto_Velho
+1600279,Laranjal do Jari,0,AP,Amapá,Norte,-0.804911,-52.453,16,613,96,America/Sao_Paulo
+1712157,Lavandeira,0,TO,Tocantins,Norte,-12.7847,-46.5099,17,86,63,America/Sao_Paulo
+2106003,Lima Campos,0,MA,Maranhão,Nordeste,-4.51837,-44.4646,21,819,99,America/Sao_Paulo
+1504000,Limoeiro do Ajuru,0,PA,Pará,Norte,-1.8985,-49.3903,15,479,91,America/Sao_Paulo
+1712405,Lizarda,0,TO,Tocantins,Norte,-9.59002,-46.6738,17,9569,63,America/Sao_Paulo
+2106102,Loreto,0,MA,Maranhão,Nordeste,-7.08111,-45.1451,21,821,99,America/Sao_Paulo
+5105259,Lucas do Rio Verde,0,MT,Mato Grosso,Centro-Oeste,-13.0588,-55.9042,51,9925,65,America/Porto_Velho
+5105309,Luciara,0,MT,Mato Grosso,Centro-Oeste,-11.2219,-50.6676,51,9105,66,America/Porto_Velho
+2106201,Luís Domingues,0,MA,Maranhão,Nordeste,-1.27492,-45.867,21,823,98,America/Sao_Paulo
+1712454,Luzinópolis,0,TO,Tocantins,Norte,-6.17794,-47.8582,17,88,63,America/Sao_Paulo
+1600303,Macapá,1,AP,Amapá,Norte,0.034934,-51.0694,16,605,96,America/Sao_Paulo
+1100130,Machadinho D'Oeste,0,RO,Rondônia,Norte,-9.44363,-61.9818,11,39,69,America/Porto_Velho
+1504059,Mãe do Rio,0,PA,Pará,Norte,-2.05683,-47.5601,15,587,91,America/Sao_Paulo
+1504109,Magalhães Barata,0,PA,Pará,Norte,-0.803391,-47.6014,15,481,91,America/Sao_Paulo
+2106300,Magalhães de Almeida,0,MA,Maranhão,Nordeste,-3.39232,-42.2117,21,825,98,America/Sao_Paulo
+1302504,Manacapuru,0,AM,Amazonas,Norte,-3.29066,-60.6216,13,253,92,America/Porto_Velho
+1302553,Manaquiri,0,AM,Amazonas,Norte,-3.44078,-60.4612,13,9839,92,America/Porto_Velho
+1302603,Manaus,1,AM,Amazonas,Norte,-3.11866,-60.0212,13,255,92,America/Porto_Velho
+1200336,Mâncio Lima,0,AC,Acre,Norte,-7.61657,-72.8997,12,109,68,America/Rio_Branco
+1302702,Manicoré,0,AM,Amazonas,Norte,-5.80462,-61.2895,13,257,97,America/Porto_Velho
+1200344,Manoel Urbano,0,AC,Acre,Norte,-8.83291,-69.2679,12,155,68,America/Rio_Branco
+1302801,Maraã,0,AM,Amazonas,Norte,-1.85313,-65.573,13,259,97,America/Porto_Velho
+1504208,Marabá,0,PA,Pará,Norte,-5.38075,-49.1327,15,483,94,America/Sao_Paulo
+2106326,Maracaçumé,0,MA,Maranhão,Nordeste,-2.04918,-45.9587,21,190,98,America/Sao_Paulo
+1504307,Maracanã,0,PA,Pará,Norte,-0.778899,-47.452,15,485,91,America/Sao_Paulo
+2106359,Marajá do Sena,0,MA,Maranhão,Nordeste,-4.62806,-45.4531,21,192,98,America/Sao_Paulo
+2106375,Maranhãozinho,0,MA,Maranhão,Nordeste,-2.24078,-45.8507,21,194,98,America/Sao_Paulo
+1504406,Marapanim,0,PA,Pará,Norte,-0.714702,-47.7034,15,487,91,America/Sao_Paulo
+5105580,Marcelândia,0,MT,Mato Grosso,Centro-Oeste,-11.0463,-54.4377,51,9899,66,America/Porto_Velho
+1200351,Marechal Thaumaturgo,0,AC,Acre,Norte,-8.93898,-72.7997,12,655,68,America/Rio_Branco
+1712504,Marianópolis do Tocantins,0,TO,Tocantins,Norte,-9.79377,-49.6553,17,9711,63,America/Sao_Paulo
+1504422,Marituba,0,PA,Pará,Norte,-1.36002,-48.3421,15,54,91,America/Sao_Paulo
+2106409,Mata Roma,0,MA,Maranhão,Nordeste,-3.62035,-43.1112,21,827,98,America/Sao_Paulo
+1712702,Mateiros,0,TO,Tocantins,Norte,-10.5464,-46.4168,17,317,63,America/Sao_Paulo
+2106508,Matinha,0,MA,Maranhão,Nordeste,-3.09849,-45.035,21,829,98,America/Sao_Paulo
+2106607,Matões,0,MA,Maranhão,Nordeste,-5.51359,-43.2018,21,831,99,America/Sao_Paulo
+2106631,Matões do Norte,0,MA,Maranhão,Nordeste,-3.6244,-44.5468,21,196,98,America/Sao_Paulo
+5105606,Matupá,0,MT,Mato Grosso,Centro-Oeste,-10.1821,-54.9467,51,9929,66,America/Porto_Velho
+1302900,Maués,0,AM,Amazonas,Norte,-3.39289,-57.7067,13,261,92,America/Porto_Velho
+1712801,Maurilândia do Tocantins,0,TO,Tocantins,Norte,-5.95169,-47.5125,17,183,63,America/Sao_Paulo
+1600402,Mazagão,0,AP,Amapá,Norte,-0.11336,-51.2891,16,607,96,America/Sao_Paulo
+1504455,Medicilândia,0,PA,Pará,Norte,-3.44637,-52.8875,15,589,93,America/Sao_Paulo
+1504505,Melgaço,0,PA,Pará,Norte,-1.8032,-50.7149,15,489,91,America/Sao_Paulo
+2106672,Milagres do Maranhão,0,MA,Maranhão,Nordeste,-3.57443,-42.6131,21,198,98,America/Sao_Paulo
+1101203,Ministro Andreazza,0,RO,Rondônia,Norte,-11.196,-61.5174,11,695,69,America/Porto_Velho
+1713205,Miracema do Tocantins,0,TO,Tocantins,Norte,-9.56556,-48.393,17,9461,63,America/Sao_Paulo
+2106706,Mirador,0,MA,Maranhão,Nordeste,-6.37454,-44.3683,21,833,99,America/Sao_Paulo
+2106755,Miranda do Norte,0,MA,Maranhão,Nordeste,-3.56313,-44.5814,21,1283,98,America/Sao_Paulo
+1713304,Miranorte,0,TO,Tocantins,Norte,-9.52907,-48.5922,17,9463,63,America/Sao_Paulo
+1101302,Mirante da Serra,0,RO,Rondônia,Norte,-11.029,-62.6696,11,697,69,America/Porto_Velho
+5105622,Mirassol d'Oeste,0,MT,Mato Grosso,Centro-Oeste,-15.6759,-58.0951,51,9177,65,America/Porto_Velho
+2106805,Mirinzal,0,MA,Maranhão,Nordeste,-2.07094,-44.7787,21,835,98,America/Sao_Paulo
+1504604,Mocajuba,0,PA,Pará,Norte,-2.5831,-49.5042,15,491,91,America/Sao_Paulo
+1504703,Moju,0,PA,Pará,Norte,-1.88993,-48.7668,15,493,91,America/Sao_Paulo
+1504752,Mojuí dos Campos,0,PA,Pará,Norte,-2.6822,-54.6425,15,1190,93,America/Sao_Paulo
+2106904,Monção,0,MA,Maranhão,Nordeste,-3.48125,-45.2496,21,837,98,America/Sao_Paulo
+1504802,Monte Alegre,0,PA,Pará,Norte,-1.99768,-54.0724,15,495,93,America/Sao_Paulo
+1713601,Monte do Carmo,0,TO,Tocantins,Norte,-10.7611,-48.1114,17,9469,63,America/Sao_Paulo
+1101401,Monte Negro,0,RO,Rondônia,Norte,-10.2458,-63.29,11,685,69,America/Porto_Velho
+1713700,Monte Santo do Tocantins,0,TO,Tocantins,Norte,-10.0075,-48.9941,17,90,63,America/Sao_Paulo
+2107001,Montes Altos,0,MA,Maranhão,Nordeste,-5.83067,-47.0673,21,839,99,America/Sao_Paulo
+2107100,Morros,0,MA,Maranhão,Nordeste,-2.85379,-44.0357,21,841,98,America/Sao_Paulo
+1504901,Muaná,0,PA,Pará,Norte,-1.53936,-49.2224,15,497,91,America/Sao_Paulo
+1400308,Mucajaí,0,RR,Roraima,Norte,2.43998,-60.9096,14,309,95,America/Porto_Velho
+1713957,Muricilândia,0,TO,Tocantins,Norte,-7.14669,-48.6091,17,187,63,America/Sao_Paulo
+1714203,Natividade,0,TO,Tocantins,Norte,-11.7034,-47.7223,17,9481,63,America/Sao_Paulo
+1714302,Nazaré,0,TO,Tocantins,Norte,-6.37496,-47.6643,17,9483,63,America/Sao_Paulo
+1303007,Nhamundá,0,AM,Amazonas,Norte,-2.20793,-56.7112,13,263,92,America/Porto_Velho
+2107209,Nina Rodrigues,0,MA,Maranhão,Nordeste,-3.46788,-43.9134,21,843,98,America/Sao_Paulo
+5105903,Nobres,0,MT,Mato Grosso,Centro-Oeste,-14.7192,-56.3284,51,9117,65,America/Porto_Velho
+1400407,Normandia,0,RR,Roraima,Norte,3.8853,-59.6204,14,311,95,America/Porto_Velho
+5106000,Nortelândia,0,MT,Mato Grosso,Centro-Oeste,-14.454,-56.7945,51,9119,65,America/Porto_Velho
+5106109,Nossa Senhora do Livramento,0,MT,Mato Grosso,Centro-Oeste,-15.772,-56.3432,51,9121,65,America/Porto_Velho
+5106158,Nova Bandeirantes,0,MT,Mato Grosso,Centro-Oeste,-9.84977,-57.8139,51,117,66,America/Porto_Velho
+5106208,Nova Brasilândia,0,MT,Mato Grosso,Centro-Oeste,-14.9612,-54.9685,51,8981,66,America/Porto_Velho
+1100148,Nova Brasilândia D'Oeste,0,RO,Rondônia,Norte,-11.7247,-62.3127,11,41,69,America/Porto_Velho
+5106216,Nova Canaã do Norte,0,MT,Mato Grosso,Centro-Oeste,-10.558,-55.953,51,9889,66,America/Porto_Velho
+2107258,Nova Colinas,0,MA,Maranhão,Nordeste,-7.12263,-46.2607,21,200,99,America/Sao_Paulo
+1504950,Nova Esperança do Piriá,0,PA,Pará,Norte,-2.26693,-46.9731,15,391,91,America/Sao_Paulo
+5108808,Nova Guarita,0,MT,Mato Grosso,Centro-Oeste,-10.312,-55.4061,51,121,66,America/Porto_Velho
+2107308,Nova Iorque,0,MA,Maranhão,Nordeste,-6.73047,-44.0471,21,845,99,America/Sao_Paulo
+1504976,Nova Ipixuna,0,PA,Pará,Norte,-4.91622,-49.0822,15,56,94,America/Sao_Paulo
+5106182,Nova Lacerda,0,MT,Mato Grosso,Centro-Oeste,-14.4727,-59.6001,51,1040,65,America/Porto_Velho
+1100338,Nova Mamoré,0,RO,Rondônia,Norte,-10.4077,-65.3346,11,47,69,America/Porto_Velho
+5108857,Nova Marilândia,0,MT,Mato Grosso,Centro-Oeste,-14.3568,-56.9696,51,103,65,America/Porto_Velho
+5108907,Nova Maringá,0,MT,Mato Grosso,Centro-Oeste,-13.0136,-57.0908,51,111,66,America/Porto_Velho
+5108956,Nova Monte Verde,0,MT,Mato Grosso,Centro-Oeste,-9.99998,-57.5261,51,119,66,America/Porto_Velho
+5106224,Nova Mutum,0,MT,Mato Grosso,Centro-Oeste,-13.8374,-56.0743,51,9937,65,America/Porto_Velho
+5106174,Nova Nazaré,0,MT,Mato Grosso,Centro-Oeste,-13.9486,-51.8002,51,1086,66,America/Porto_Velho
+5106232,Nova Olímpia,0,MT,Mato Grosso,Centro-Oeste,-14.7889,-57.2886,51,9893,65,America/Porto_Velho
+1714880,Nova Olinda,0,TO,Tocantins,Norte,-7.63171,-48.4252,17,9663,63,America/Sao_Paulo
+2107357,Nova Olinda do Maranhão,0,MA,Maranhão,Nordeste,-2.84227,-45.6953,21,202,98,America/Sao_Paulo
+1303106,Nova Olinda do Norte,0,AM,Amazonas,Norte,-3.90037,-59.094,13,265,92,America/Porto_Velho
+1715002,Nova Rosalândia,0,TO,Tocantins,Norte,-10.5651,-48.9125,17,9721,63,America/Sao_Paulo
+5106190,Nova Santa Helena,0,MT,Mato Grosso,Centro-Oeste,-10.8651,-55.1872,51,1088,66,America/Porto_Velho
+1505007,Nova Timboteua,0,PA,Pará,Norte,-1.20874,-47.3921,15,499,91,America/Sao_Paulo
+5106240,Nova Ubiratã,0,MT,Mato Grosso,Centro-Oeste,-12.9834,-55.2556,51,1042,66,America/Porto_Velho
+1101435,Nova União,0,RO,Rondônia,Norte,-10.9068,-62.5564,11,10,69,America/Porto_Velho
+5106257,Nova Xavantina,0,MT,Mato Grosso,Centro-Oeste,-14.6771,-52.3502,51,9195,66,America/Porto_Velho
+1715101,Novo Acordo,0,TO,Tocantins,Norte,-9.97063,-47.6785,17,9499,63,America/Sao_Paulo
+1303205,Novo Airão,0,AM,Amazonas,Norte,-2.63637,-60.9434,13,201,92,America/Porto_Velho
+1715150,Novo Alegre,0,TO,Tocantins,Norte,-12.9217,-46.5713,17,9703,63,America/Sao_Paulo
+1303304,Novo Aripuanã,0,AM,Amazonas,Norte,-5.12593,-60.3732,13,267,97,America/Porto_Velho
+5106273,Novo Horizonte do Norte,0,MT,Mato Grosso,Centro-Oeste,-11.4089,-57.3488,51,9903,66,America/Porto_Velho
+1100502,Novo Horizonte do Oeste,0,RO,Rondônia,Norte,-11.6961,-61.9951,11,689,69,America/Porto_Velho
+1715259,Novo Jardim,0,TO,Tocantins,Norte,-11.826,-46.6325,17,321,63,America/Sao_Paulo
+5106265,Novo Mundo,0,MT,Mato Grosso,Centro-Oeste,-9.95616,-55.2029,51,1044,66,America/Porto_Velho
+1505031,Novo Progresso,0,PA,Pará,Norte,-7.14347,-55.3786,15,633,93,America/Sao_Paulo
+1505064,Novo Repartimento,0,PA,Pará,Norte,-4.24749,-49.9499,15,629,94,America/Sao_Paulo
+5106315,Novo Santo Antônio,0,MT,Mato Grosso,Centro-Oeste,-12.2875,-50.9686,51,1090,66,America/Porto_Velho
+5106281,Novo São Joaquim,0,MT,Mato Grosso,Centro-Oeste,-14.9054,-53.0194,51,9867,66,America/Porto_Velho
+1505106,Óbidos,0,PA,Pará,Norte,-1.90107,-55.5208,15,501,93,America/Sao_Paulo
+1505205,Oeiras do Pará,0,PA,Pará,Norte,-2.00358,-49.8628,15,503,91,America/Sao_Paulo
+1600501,Oiapoque,0,AP,Amapá,Norte,3.84074,-51.8331,16,609,96,America/Sao_Paulo
+2107407,Olho d'Água das Cunhãs,0,MA,Maranhão,Nordeste,-4.13417,-45.1163,21,847,98,America/Sao_Paulo
+2107456,Olinda Nova do Maranhão,0,MA,Maranhão,Nordeste,-2.99295,-44.9897,21,204,98,America/Sao_Paulo
+1715507,Oliveira de Fátima,0,TO,Tocantins,Norte,-10.707,-48.9086,17,92,63,America/Sao_Paulo
+1505304,Oriximiná,0,PA,Pará,Norte,-1.75989,-55.8579,15,505,93,America/Sao_Paulo
+1505403,Ourém,0,PA,Pará,Norte,-1.54168,-47.1126,15,507,91,America/Sao_Paulo
+1505437,Ourilândia do Norte,0,PA,Pará,Norte,-6.7529,-51.0858,15,591,94,America/Sao_Paulo
+1100155,Ouro Preto do Oeste,0,RO,Rondônia,Norte,-10.7167,-62.2565,11,17,69,America/Porto_Velho
+1505486,Pacajá,0,PA,Pará,Norte,-3.83542,-50.6399,15,593,91,America/Sao_Paulo
+1400456,Pacaraima,0,RR,Roraima,Norte,4.4799,-61.1477,14,34,95,America/Porto_Velho
+2107506,Paço do Lumiar,0,MA,Maranhão,Nordeste,-2.51657,-44.1019,21,849,98,America/Sao_Paulo
+1505494,Palestina do Pará,0,PA,Pará,Norte,-5.74027,-48.3181,15,379,94,America/Sao_Paulo
+1721000,Palmas,1,TO,Tocantins,Norte,-10.24,-48.3558,17,9733,63,America/Sao_Paulo
+2107605,Palmeirândia,0,MA,Maranhão,Nordeste,-2.64433,-44.8933,21,851,98,America/Sao_Paulo
+1715705,Palmeirante,0,TO,Tocantins,Norte,-7.84786,-47.9242,17,189,63,America/Sao_Paulo
+1713809,Palmeiras do Tocantins,0,TO,Tocantins,Norte,-6.61658,-47.5464,17,185,63,America/Sao_Paulo
+1715754,Palmeirópolis,0,TO,Tocantins,Norte,-13.0447,-48.4026,17,9649,63,America/Sao_Paulo
+1505502,Paragominas,0,PA,Pará,Norte,-3.00212,-47.3527,15,509,91,America/Sao_Paulo
+2107704,Paraibano,0,MA,Maranhão,Nordeste,-6.4264,-43.9792,21,853,99,America/Sao_Paulo
+1716109,Paraíso do Tocantins,0,TO,Tocantins,Norte,-10.175,-48.8823,17,9519,63,America/Sao_Paulo
+1716208,Paranã,0,TO,Tocantins,Norte,-12.6167,-47.8734,17,9521,63,America/Sao_Paulo
+5106299,Paranaíta,0,MT,Mato Grosso,Centro-Oeste,-9.65835,-56.4786,51,9885,66,America/Porto_Velho
+5106307,Paranatinga,0,MT,Mato Grosso,Centro-Oeste,-14.4265,-54.0524,51,8983,66,America/Porto_Velho
+1505536,Parauapebas,0,PA,Pará,Norte,-6.06781,-49.9037,15,595,94,America/Sao_Paulo
+1101450,Parecis,0,RO,Rondônia,Norte,-12.1754,-61.6032,11,12,69,America/Porto_Velho
+1303403,Parintins,0,AM,Amazonas,Norte,-2.63741,-56.729,13,269,92,America/Porto_Velho
+2107803,Parnarama,0,MA,Maranhão,Nordeste,-5.67365,-43.1011,21,855,99,America/Sao_Paulo
+2107902,Passagem Franca,0,MA,Maranhão,Nordeste,-6.17745,-43.7755,21,857,99,America/Sao_Paulo
+2108009,Pastos Bons,0,MA,Maranhão,Nordeste,-6.60296,-44.0745,21,859,99,America/Sao_Paulo
+1505551,Pau d'Arco,0,PA,Pará,Norte,-1.59772,-46.9268,15,387,94,America/Sao_Paulo
+1716307,Pau D'Arco,0,TO,Tocantins,Norte,-7.53919,-49.367,17,191,63,America/Sao_Paulo
+1303502,Pauini,0,AM,Amazonas,Norte,-7.71311,-66.992,13,271,97,America/Rio_Branco
+2108058,Paulino Neves,0,MA,Maranhão,Nordeste,-2.72094,-42.5258,21,206,98,America/Sao_Paulo
+2108108,Paulo Ramos,0,MA,Maranhão,Nordeste,-4.44485,-45.2398,21,959,98,America/Sao_Paulo
+1600154,Pedra Branca do Amapari,0,AP,Amapá,Norte,0.777424,-51.9503,16,663,96,America/Sao_Paulo
+5106372,Pedra Preta,0,MT,Mato Grosso,Centro-Oeste,-16.6245,-54.4722,51,9181,66,America/Porto_Velho
+2108207,Pedreiras,0,MA,Maranhão,Nordeste,-4.56482,-44.6006,21,861,99,America/Sao_Paulo
+1716505,Pedro Afonso,0,TO,Tocantins,Norte,-8.97034,-48.1729,17,9525,63,America/Sao_Paulo
+2108256,Pedro do Rosário,0,MA,Maranhão,Nordeste,-2.97272,-45.3493,21,208,98,America/Sao_Paulo
+1716604,Peixe,0,TO,Tocantins,Norte,-12.0254,-48.5395,17,9527,63,America/Sao_Paulo
+1505601,Peixe-Boi,0,PA,Pará,Norte,-1.19382,-47.324,15,511,91,America/Sao_Paulo
+5106422,Peixoto de Azevedo,0,MT,Mato Grosso,Centro-Oeste,-10.2262,-54.9794,51,9891,66,America/Porto_Velho
+2108306,Penalva,0,MA,Maranhão,Nordeste,-3.27674,-45.1768,21,863,98,America/Sao_Paulo
+1716653,Pequizeiro,0,TO,Tocantins,Norte,-8.5932,-48.9327,17,9705,63,America/Sao_Paulo
+2108405,Peri Mirim,0,MA,Maranhão,Nordeste,-2.57676,-44.8504,21,865,98,America/Sao_Paulo
+2108454,Peritoró,0,MA,Maranhão,Nordeste,-4.37459,-44.3369,21,210,99,America/Sao_Paulo
+1505635,Piçarra,0,PA,Pará,Norte,-6.43778,-48.8716,15,58,94,America/Sao_Paulo
+1100189,Pimenta Bueno,0,RO,Rondônia,Norte,-11.672,-61.198,11,11,69,America/Porto_Velho
+1101468,Pimenteiras do Oeste,0,RO,Rondônia,Norte,-13.4823,-61.0471,11,14,69,America/Porto_Velho
+2108504,Pindaré-Mirim,0,MA,Maranhão,Nordeste,-3.60985,-45.342,21,867,98,America/Sao_Paulo
+1717008,Pindorama do Tocantins,0,TO,Tocantins,Norte,-11.1311,-47.5726,17,9537,63,America/Sao_Paulo
+2108603,Pinheiro,0,MA,Maranhão,Nordeste,-2.52224,-45.0788,21,869,98,America/Sao_Paulo
+2108702,Pio XII,0,MA,Maranhão,Nordeste,-3.89315,-45.1759,21,871,98,America/Sao_Paulo
+2108801,Pirapemas,0,MA,Maranhão,Nordeste,-3.72041,-44.2216,21,873,98,America/Sao_Paulo
+1717206,Piraquê,0,TO,Tocantins,Norte,-6.77302,-48.2958,17,355,63,America/Sao_Paulo
+1717503,Pium,0,TO,Tocantins,Norte,-10.442,-49.1876,17,9547,63,America/Sao_Paulo
+1505650,Placas,0,PA,Pará,Norte,-3.86813,-54.2124,15,60,93,America/Sao_Paulo
+1200385,Plácido de Castro,0,AC,Acre,Norte,-10.2806,-67.1371,12,151,68,America/Rio_Branco
+5106455,Planalto da Serra,0,MT,Mato Grosso,Centro-Oeste,-14.6518,-54.7819,51,91,66,America/Porto_Velho
+2108900,Poção de Pedras,0,MA,Maranhão,Nordeste,-4.74626,-44.9432,21,875,99,America/Sao_Paulo
+5106505,Poconé,0,MT,Mato Grosso,Centro-Oeste,-16.266,-56.6261,51,9129,65,America/Porto_Velho
+1505700,Ponta de Pedras,0,PA,Pará,Norte,-1.39587,-48.8661,15,513,91,America/Sao_Paulo
+5106653,Pontal do Araguaia,0,MT,Mato Grosso,Centro-Oeste,-15.9274,-52.3273,51,95,66,America/Porto_Velho
+1717800,Ponte Alta do Bom Jesus,0,TO,Tocantins,Norte,-12.0853,-46.4825,17,9551,63,America/Sao_Paulo
+1717909,Ponte Alta do Tocantins,0,TO,Tocantins,Norte,-10.7481,-47.5276,17,9553,63,America/Sao_Paulo
+5106703,Ponte Branca,0,MT,Mato Grosso,Centro-Oeste,-16.7584,-52.8369,51,9133,66,America/Porto_Velho
+5106752,Pontes e Lacerda,0,MT,Mato Grosso,Centro-Oeste,-15.2219,-59.3435,51,8999,65,America/Porto_Velho
+1505809,Portel,0,PA,Pará,Norte,-1.93639,-50.8194,15,515,91,America/Sao_Paulo
+1200807,Porto Acre,0,AC,Acre,Norte,-9.58138,-67.5478,12,649,68,America/Rio_Branco
+5106778,Porto Alegre do Norte,0,MT,Mato Grosso,Centro-Oeste,-10.8761,-51.6357,51,9895,66,America/Porto_Velho
+1718006,Porto Alegre do Tocantins,0,TO,Tocantins,Norte,-11.618,-47.0621,17,9723,63,America/Sao_Paulo
+1505908,Porto de Moz,0,PA,Pará,Norte,-1.74691,-52.2361,15,517,93,America/Sao_Paulo
+5106802,Porto dos Gaúchos,0,MT,Mato Grosso,Centro-Oeste,-11.533,-57.4132,51,9135,66,America/Porto_Velho
+5106828,Porto Esperidião,0,MT,Mato Grosso,Centro-Oeste,-15.857,-58.4619,51,9875,65,America/Porto_Velho
+5106851,Porto Estrela,0,MT,Mato Grosso,Centro-Oeste,-15.3235,-57.2204,51,101,65,America/Porto_Velho
+2109007,Porto Franco,0,MA,Maranhão,Nordeste,-6.34149,-47.3962,21,877,99,America/Sao_Paulo
+1600535,Porto Grande,0,AP,Amapá,Norte,0.71243,-51.4155,16,671,96,America/Sao_Paulo
+1718204,Porto Nacional,0,TO,Tocantins,Norte,-10.7027,-48.408,17,9559,63,America/Sao_Paulo
+2109056,Porto Rico do Maranhão,0,MA,Maranhão,Nordeste,-1.85925,-44.5842,21,212,98,America/Sao_Paulo
+1100205,Porto Velho,1,RO,Rondônia,Norte,-8.76077,-63.8999,11,3,69,America/Porto_Velho
+1200393,Porto Walter,0,AC,Acre,Norte,-8.26323,-72.7537,12,657,68,America/Rio_Branco
+5107008,Poxoréu,0,MT,Mato Grosso,Centro-Oeste,-15.8299,-54.4208,51,9139,66,America/Porto_Velho
+1600550,Pracuúba,0,AP,Amapá,Norte,1.74543,-50.7892,16,673,96,America/Sao_Paulo
+1718303,Praia Norte,0,TO,Tocantins,Norte,-5.39281,-47.8111,17,9725,63,America/Sao_Paulo
+1506005,Prainha,0,PA,Pará,Norte,-1.798,-53.4779,15,519,93,America/Sao_Paulo
+2109106,Presidente Dutra,0,MA,Maranhão,Nordeste,-5.2898,-44.495,21,879,99,America/Sao_Paulo
+1303536,Presidente Figueiredo,0,AM,Amazonas,Norte,-2.02981,-60.0234,13,9841,92,America/Porto_Velho
+2109205,Presidente Juscelino,0,MA,Maranhão,Nordeste,-2.91872,-44.0715,21,881,98,America/Sao_Paulo
+1718402,Presidente Kennedy,0,TO,Tocantins,Norte,-8.5406,-48.5062,17,9629,63,America/Sao_Paulo
+1100254,Presidente Médici,0,RO,Rondônia,Norte,-11.169,-61.8986,11,19,69,America/Porto_Velho
+2109239,Presidente Médici,0,MA,Maranhão,Nordeste,-2.38991,-45.82,21,214,98,America/Sao_Paulo
+2109270,Presidente Sarney,0,MA,Maranhão,Nordeste,-2.58799,-45.3595,21,216,98,America/Sao_Paulo
+2109304,Presidente Vargas,0,MA,Maranhão,Nordeste,-3.40787,-44.0234,21,883,98,America/Sao_Paulo
+1506104,Primavera,0,PA,Pará,Norte,-0.945439,-47.1253,15,521,91,America/Sao_Paulo
+1101476,Primavera de Rondônia,0,RO,Rondônia,Norte,-11.8295,-61.3153,11,16,69,America/Porto_Velho
+5107040,Primavera do Leste,0,MT,Mato Grosso,Centro-Oeste,-15.544,-54.2811,51,9871,66,America/Porto_Velho
+2109403,Primeira Cruz,0,MA,Maranhão,Nordeste,-2.50568,-43.4232,21,885,98,America/Sao_Paulo
+1718451,Pugmil,0,TO,Tocantins,Norte,-10.424,-48.8957,17,94,63,America/Sao_Paulo
+1506112,Quatipuru,0,PA,Pará,Norte,-0.899604,-47.0134,15,62,91,America/Sao_Paulo
+5107065,Querência,0,MT,Mato Grosso,Centro-Oeste,-12.6093,-52.1821,51,97,66,America/Porto_Velho
+2109452,Raposa,0,MA,Maranhão,Nordeste,-2.4254,-44.0973,21,218,98,America/Sao_Paulo
+1718501,Recursolândia,0,TO,Tocantins,Norte,-8.7227,-47.2421,17,357,63,America/Sao_Paulo
+1506138,Redenção,0,PA,Pará,Norte,-8.02529,-50.0317,15,567,94,America/Sao_Paulo
+5107156,Reserva do Cabaçal,0,MT,Mato Grosso,Centro-Oeste,-15.0743,-58.4585,51,9879,65,America/Porto_Velho
+2109502,Riachão,0,MA,Maranhão,Nordeste,-7.35819,-46.6225,21,887,99,America/Sao_Paulo
+1718550,Riachinho,0,TO,Tocantins,Norte,-6.44005,-48.1371,17,193,63,America/Sao_Paulo
+2109551,Ribamar Fiquene,0,MA,Maranhão,Nordeste,-5.93067,-47.3888,21,220,99,America/Sao_Paulo
+5107180,Ribeirão Cascalheira,0,MT,Mato Grosso,Centro-Oeste,-12.9367,-51.8244,51,9741,66,America/Porto_Velho
+5107198,Ribeirãozinho,0,MT,Mato Grosso,Centro-Oeste,-16.4856,-52.6924,51,99,66,America/Porto_Velho
+5107206,Rio Branco,0,MT,Mato Grosso,Centro-Oeste,-15.2483,-58.1259,51,8995,65,America/Porto_Velho
+1200401,Rio Branco,1,AC,Acre,Norte,-9.97499,-67.8243,12,139,68,America/Rio_Branco
+1100262,Rio Crespo,0,RO,Rondônia,Norte,-9.69965,-62.9011,11,687,69,America/Porto_Velho
+1718659,Rio da Conceição,0,TO,Tocantins,Norte,-11.3949,-46.8847,17,323,63,America/Sao_Paulo
+1718709,Rio dos Bois,0,TO,Tocantins,Norte,-9.34425,-48.5245,17,359,63,America/Sao_Paulo
+1506161,Rio Maria,0,PA,Pará,Norte,-7.31236,-50.0379,15,569,94,America/Sao_Paulo
+1303569,Rio Preto da Eva,0,AM,Amazonas,Norte,-2.7045,-59.6858,13,9843,92,America/Porto_Velho
+1718758,Rio Sono,0,TO,Tocantins,Norte,-9.35002,-47.888,17,9679,63,America/Sao_Paulo
+1200427,Rodrigues Alves,0,AC,Acre,Norte,-7.73864,-72.661,12,659,68,America/Rio_Branco
+1100288,Rolim de Moura,0,RO,Rondônia,Norte,-11.7271,-61.7714,11,29,69,America/Porto_Velho
+5107578,Rondolândia,0,MT,Mato Grosso,Centro-Oeste,-10.8376,-61.4697,51,1092,66,America/Porto_Velho
+1506187,Rondon do Pará,0,PA,Pará,Norte,-4.77793,-48.067,15,573,94,America/Sao_Paulo
+5107602,Rondonópolis,0,MT,Mato Grosso,Centro-Oeste,-16.4673,-54.6372,51,9151,66,America/Porto_Velho
+1400472,Rorainópolis,0,RR,Roraima,Norte,0.939956,-60.4389,14,36,95,America/Porto_Velho
+2109601,Rosário,0,MA,Maranhão,Nordeste,-2.93444,-44.2531,21,891,98,America/Sao_Paulo
+5107701,Rosário Oeste,0,MT,Mato Grosso,Centro-Oeste,-14.8259,-56.4236,51,9153,65,America/Porto_Velho
+1506195,Rurópolis,0,PA,Pará,Norte,-4.10028,-54.9092,15,597,93,America/Sao_Paulo
+1506203,Salinópolis,0,PA,Pará,Norte,-0.630815,-47.3465,15,523,91,America/Sao_Paulo
+5107750,Salto do Céu,0,MT,Mato Grosso,Centro-Oeste,-15.1303,-58.1317,51,8997,65,America/Porto_Velho
+1506302,Salvaterra,0,PA,Pará,Norte,-0.758444,-48.5139,15,525,91,America/Sao_Paulo
+2109700,Sambaíba,0,MA,Maranhão,Nordeste,-7.13447,-45.3515,21,893,99,America/Sao_Paulo
+1718808,Sampaio,0,TO,Tocantins,Norte,-5.35423,-47.8782,17,9727,63,America/Sao_Paulo
+1718840,Sandolândia,0,TO,Tocantins,Norte,-12.538,-49.9242,17,331,63,America/Sao_Paulo
+1506351,Santa Bárbara do Pará,0,PA,Pará,Norte,-1.19219,-48.238,15,369,91,America/Sao_Paulo
+5107248,Santa Carmem,0,MT,Mato Grosso,Centro-Oeste,-11.9125,-55.2263,51,123,66,America/Porto_Velho
+1506401,Santa Cruz do Arari,0,PA,Pará,Norte,-0.661019,-49.1771,15,527,91,America/Sao_Paulo
+5107743,Santa Cruz do Xingu,0,MT,Mato Grosso,Centro-Oeste,-10.1532,-52.3953,51,1094,66,America/Porto_Velho
+1718865,Santa Fé do Araguaia,0,TO,Tocantins,Norte,-7.15803,-48.7165,17,195,63,America/Sao_Paulo
+2109759,Santa Filomena do Maranhão,0,MA,Maranhão,Nordeste,-5.49671,-44.5638,21,222,99,America/Sao_Paulo
+2109809,Santa Helena,0,MA,Maranhão,Nordeste,-2.24426,-45.29,21,895,98,America/Sao_Paulo
+2109908,Santa Inês,0,MA,Maranhão,Nordeste,-3.65112,-45.3774,21,957,98,America/Sao_Paulo
+1303601,Santa Isabel do Rio Negro,0,AM,Amazonas,Norte,-0.410824,-65.0092,13,237,97,America/Porto_Velho
+1506500,Santa Izabel do Pará,0,PA,Pará,Norte,-1.29686,-48.1606,15,529,91,America/Sao_Paulo
+2110005,Santa Luzia,0,MA,Maranhão,Nordeste,-4.06873,-45.69,21,897,98,America/Sao_Paulo
+1100296,Santa Luzia D'Oeste,0,RO,Rondônia,Norte,-11.9074,-61.7777,11,43,69,America/Porto_Velho
+1506559,Santa Luzia do Pará,0,PA,Pará,Norte,-1.52147,-46.9008,15,371,91,America/Sao_Paulo
+2110039,Santa Luzia do Paruá,0,MA,Maranhão,Nordeste,-2.51123,-45.7801,21,1285,98,America/Sao_Paulo
+1506583,Santa Maria das Barreiras,0,PA,Pará,Norte,-8.85784,-49.7215,15,599,94,America/Sao_Paulo
+1506609,Santa Maria do Pará,0,PA,Pará,Norte,-1.35392,-47.5712,15,531,91,America/Sao_Paulo
+1718881,Santa Maria do Tocantins,0,TO,Tocantins,Norte,-8.8046,-47.7887,17,361,63,America/Sao_Paulo
+2110104,Santa Quitéria do Maranhão,0,MA,Maranhão,Nordeste,-3.49308,-42.5688,21,899,98,America/Sao_Paulo
+2110203,Santa Rita,0,MA,Maranhão,Nordeste,-3.14241,-44.3211,21,901,98,America/Sao_Paulo
+1718899,Santa Rita do Tocantins,0,TO,Tocantins,Norte,-10.8617,-48.9161,17,96,63,America/Sao_Paulo
+5107768,Santa Rita do Trivelato,0,MT,Mato Grosso,Centro-Oeste,-13.8146,-55.2706,51,1096,65,America/Porto_Velho
+1200435,Santa Rosa do Purus,0,AC,Acre,Norte,-9.44652,-70.4902,12,661,68,America/Rio_Branco
+1718907,Santa Rosa do Tocantins,0,TO,Tocantins,Norte,-11.4474,-48.1216,17,9729,63,America/Sao_Paulo
+1719004,Santa Tereza do Tocantins,0,TO,Tocantins,Norte,-10.2746,-47.8033,17,9731,63,America/Sao_Paulo
+5107776,Santa Terezinha,0,MT,Mato Grosso,Centro-Oeste,-10.4704,-50.514,51,9197,66,America/Porto_Velho
+1720002,Santa Terezinha do Tocantins,0,TO,Tocantins,Norte,-6.44438,-47.6684,17,98,63,America/Sao_Paulo
+1600600,Santana,0,AP,Amapá,Norte,-0.045434,-51.1729,16,615,96,America/Sao_Paulo
+1506708,Santana do Araguaia,0,PA,Pará,Norte,-9.3281,-50.35,15,533,94,America/Sao_Paulo
+2110237,Santana do Maranhão,0,MA,Maranhão,Nordeste,-3.109,-42.4064,21,224,98,America/Sao_Paulo
+1506807,Santarém,0,PA,Pará,Norte,-2.43849,-54.6996,15,535,93,America/Sao_Paulo
+1506906,Santarém Novo,0,PA,Pará,Norte,-0.93097,-47.3855,15,537,91,America/Sao_Paulo
+5107263,Santo Afonso,0,MT,Mato Grosso,Centro-Oeste,-14.4945,-57.0091,51,115,65,America/Porto_Velho
+2110278,Santo Amaro do Maranhão,0,MA,Maranhão,Nordeste,-2.50068,-43.238,21,226,98,America/Sao_Paulo
+1303700,Santo Antônio do Içá,0,AM,Amazonas,Norte,-3.09544,-67.9463,13,273,97,America/Porto_Velho
+5107792,Santo Antônio do Leste,0,MT,Mato Grosso,Centro-Oeste,-14.805,-53.6075,51,1098,66,America/Porto_Velho
+5107800,Santo Antônio do Leverger,0,MT,Mato Grosso,Centro-Oeste,-15.8632,-56.0788,51,9155,65,America/Porto_Velho
+1507003,Santo Antônio do Tauá,0,PA,Pará,Norte,-1.1522,-48.1314,15,539,91,America/Sao_Paulo
+2110302,Santo Antônio dos Lopes,0,MA,Maranhão,Nordeste,-4.86613,-44.3653,21,903,99,America/Sao_Paulo
+2110401,São Benedito do Rio Preto,0,MA,Maranhão,Nordeste,-3.33515,-43.5287,21,905,98,America/Sao_Paulo
+2110500,São Bento,0,MA,Maranhão,Nordeste,-2.69781,-44.8289,21,907,98,America/Sao_Paulo
+1720101,São Bento do Tocantins,0,TO,Tocantins,Norte,-6.0258,-47.9012,17,197,63,America/Sao_Paulo
+2110609,São Bernardo,0,MA,Maranhão,Nordeste,-3.37223,-42.4191,21,909,98,America/Sao_Paulo
+1507102,São Caetano de Odivelas,0,PA,Pará,Norte,-0.747293,-48.0246,15,541,91,America/Sao_Paulo
+1507151,São Domingos do Araguaia,0,PA,Pará,Norte,-5.53732,-48.7366,15,381,94,America/Sao_Paulo
+2110658,São Domingos do Azeitão,0,MA,Maranhão,Nordeste,-6.81471,-44.6509,21,228,99,America/Sao_Paulo
+1507201,São Domingos do Capim,0,PA,Pará,Norte,-1.68768,-47.7665,15,543,91,America/Sao_Paulo
+2110708,São Domingos do Maranhão,0,MA,Maranhão,Nordeste,-5.58095,-44.3822,21,911,99,America/Sao_Paulo
+1101484,São Felipe D'Oeste,0,RO,Rondônia,Norte,-11.9023,-61.5026,11,18,69,America/Porto_Velho
+2110807,São Félix de Balsas,0,MA,Maranhão,Nordeste,-7.07535,-44.8092,21,913,99,America/Sao_Paulo
+5107859,São Félix do Araguaia,0,MT,Mato Grosso,Centro-Oeste,-11.615,-50.6706,51,9183,66,America/Porto_Velho
+1720150,São Félix do Tocantins,0,TO,Tocantins,Norte,-10.1615,-46.6618,17,363,63,America/Sao_Paulo
+1507300,São Félix do Xingu,0,PA,Pará,Norte,-6.64254,-51.9904,15,545,94,America/Sao_Paulo
+2110856,São Francisco do Brejão,0,MA,Maranhão,Nordeste,-5.12584,-47.389,21,230,99,America/Sao_Paulo
+1101492,São Francisco do Guaporé,0,RO,Rondônia,Norte,-12.052,-63.568,11,20,69,America/Porto_Velho
+2110906,São Francisco do Maranhão,0,MA,Maranhão,Nordeste,-6.25159,-42.8668,21,915,99,America/Sao_Paulo
+1507409,São Francisco do Pará,0,PA,Pará,Norte,-1.16963,-47.7917,15,547,91,America/Sao_Paulo
+1303809,São Gabriel da Cachoeira,0,AM,Amazonas,Norte,-0.11909,-67.084,13,283,97,America/Porto_Velho
+1507458,São Geraldo do Araguaia,0,PA,Pará,Norte,-6.39471,-48.5592,15,619,94,America/Sao_Paulo
+2111003,São João Batista,0,MA,Maranhão,Nordeste,-2.95398,-44.7953,21,917,98,America/Sao_Paulo
+1400506,São João da Baliza,0,RR,Roraima,Norte,0.951659,-59.9133,14,313,95,America/Porto_Velho
+1507466,São João da Ponta,0,PA,Pará,Norte,-0.857885,-47.918,15,64,91,America/Sao_Paulo
+1507474,São João de Pirabas,0,PA,Pará,Norte,-0.780222,-47.181,15,393,91,America/Sao_Paulo
+1507508,São João do Araguaia,0,PA,Pará,Norte,-5.36334,-48.7926,15,549,94,America/Sao_Paulo
+2111029,São João do Carú,0,MA,Maranhão,Nordeste,-3.5503,-46.2507,21,232,98,America/Sao_Paulo
+2111052,São João do Paraíso,0,MA,Maranhão,Nordeste,-6.45634,-47.0594,21,234,99,America/Sao_Paulo
+2111078,São João do Soter,0,MA,Maranhão,Nordeste,-5.10821,-43.8163,21,236,99,America/Sao_Paulo
+2111102,São João dos Patos,0,MA,Maranhão,Nordeste,-6.4934,-43.7036,21,919,99,America/Sao_Paulo
+2111201,São José de Ribamar,0,MA,Maranhão,Nordeste,-2.54704,-44.0597,21,889,98,America/Sao_Paulo
+5107297,São José do Povo,0,MT,Mato Grosso,Centro-Oeste,-16.4549,-54.2487,51,6087,66,America/Porto_Velho
+5107305,São José do Rio Claro,0,MT,Mato Grosso,Centro-Oeste,-13.4398,-56.7218,51,9199,65,America/Porto_Velho
+5107354,São José do Xingu,0,MT,Mato Grosso,Centro-Oeste,-10.7982,-52.7486,51,133,66,America/Porto_Velho
+2111250,São José dos Basílios,0,MA,Maranhão,Nordeste,-5.05493,-44.5809,21,238,99,America/Sao_Paulo
+5107107,São José dos Quatro Marcos,0,MT,Mato Grosso,Centro-Oeste,-15.6276,-58.1772,51,8993,65,America/Porto_Velho
+2111300,São Luís,1,MA,Maranhão,Nordeste,-2.53874,-44.2825,21,921,98,America/Sao_Paulo
+2111409,São Luís Gonzaga do Maranhão,0,MA,Maranhão,Nordeste,-4.38541,-44.6654,21,805,99,America/Sao_Paulo
+1400605,São Luiz,0,RR,Roraima,Norte,1.01019,-60.0419,14,315,95,America/Porto_Velho
+2111508,São Mateus do Maranhão,0,MA,Maranhão,Nordeste,-4.03736,-44.4707,21,923,99,America/Sao_Paulo
+1507607,São Miguel do Guamá,0,PA,Pará,Norte,-1.61307,-47.4784,15,551,91,America/Sao_Paulo
+1100320,São Miguel do Guaporé,0,RO,Rondônia,Norte,-11.6953,-62.7192,11,45,69,America/Porto_Velho
+1720200,São Miguel do Tocantins,0,TO,Tocantins,Norte,-5.56305,-47.5743,17,199,63,America/Sao_Paulo
+1303908,São Paulo de Olivença,0,AM,Amazonas,Norte,-3.47292,-68.9646,13,275,97,America/Rio_Branco
+2111532,São Pedro da Água Branca,0,MA,Maranhão,Nordeste,-5.08472,-48.4291,21,240,99,America/Sao_Paulo
+5107404,São Pedro da Cipa,0,MT,Mato Grosso,Centro-Oeste,-16.0109,-54.9176,51,93,66,America/Porto_Velho
+2111573,São Pedro dos Crentes,0,MA,Maranhão,Nordeste,-6.82389,-46.5319,21,242,99,America/Sao_Paulo
+2111607,São Raimundo das Mangabeiras,0,MA,Maranhão,Nordeste,-7.02183,-45.4809,21,925,99,America/Sao_Paulo
+2111631,São Raimundo do Doca Bezerra,0,MA,Maranhão,Nordeste,-5.11053,-45.0696,21,244,99,America/Sao_Paulo
+2111672,São Roberto,0,MA,Maranhão,Nordeste,-5.0231,-45.001,21,246,99,America/Sao_Paulo
+1720259,São Salvador do Tocantins,0,TO,Tocantins,Norte,-12.7458,-48.2352,17,333,63,America/Sao_Paulo
+1507706,São Sebastião da Boa Vista,0,PA,Pará,Norte,-1.71597,-49.5249,15,553,91,America/Sao_Paulo
+1720309,São Sebastião do Tocantins,0,TO,Tocantins,Norte,-5.26131,-48.2021,17,9603,63,America/Sao_Paulo
+1303957,São Sebastião do Uatumã,0,AM,Amazonas,Norte,-2.55915,-57.8731,13,9845,92,America/Porto_Velho
+1720499,São Valério,0,TO,Tocantins,Norte,-11.9743,-48.2353,17,9691,63,America/Sao_Paulo
+2111706,São Vicente Ferrer,0,MA,Maranhão,Nordeste,-2.89487,-44.8681,21,927,98,America/Sao_Paulo
+5107875,Sapezal,0,MT,Mato Grosso,Centro-Oeste,-12.9892,-58.7645,51,1046,65,America/Porto_Velho
+1507755,Sapucaia,0,PA,Pará,Norte,-6.94018,-49.6834,15,66,94,America/Sao_Paulo
+2111722,Satubinha,0,MA,Maranhão,Nordeste,-4.04913,-45.2457,21,248,98,America/Sao_Paulo
+1200500,Sena Madureira,0,AC,Acre,Norte,-9.06596,-68.6571,12,145,68,America/Rio_Branco
+2111748,Senador Alexandre Costa,0,MA,Maranhão,Nordeste,-5.25096,-44.0533,21,250,99,America/Sao_Paulo
+1200450,Senador Guiomard,0,AC,Acre,Norte,-10.1497,-67.7362,12,153,68,America/Rio_Branco
+1507805,Senador José Porfírio,0,PA,Pará,Norte,-4.31242,-51.5764,15,555,91,America/Sao_Paulo
+2111763,Senador La Rocque,0,MA,Maranhão,Nordeste,-5.4461,-47.2959,21,252,99,America/Sao_Paulo
+1101500,Seringueiras,0,RO,Rondônia,Norte,-11.8055,-63.0182,11,699,69,America/Porto_Velho
+1600055,Serra do Navio,0,AP,Amapá,Norte,0.901357,-52.0036,16,665,96,America/Sao_Paulo
+5107883,Serra Nova Dourada,0,MT,Mato Grosso,Centro-Oeste,-12.0896,-51.4025,51,1100,66,America/Porto_Velho
+2111789,Serrano do Maranhão,0,MA,Maranhão,Nordeste,-1.85229,-45.1207,21,254,98,America/Sao_Paulo
+1720655,Silvanópolis,0,TO,Tocantins,Norte,-11.1471,-48.1694,17,9659,63,America/Sao_Paulo
+1304005,Silves,0,AM,Amazonas,Norte,-2.81748,-58.248,13,277,92,America/Porto_Velho
+5107909,Sinop,0,MT,Mato Grosso,Centro-Oeste,-11.8604,-55.5091,51,8985,66,America/Porto_Velho
+2111805,Sítio Novo,0,MA,Maranhão,Nordeste,-5.87601,-46.7033,21,929,99,America/Sao_Paulo
+1720804,Sítio Novo do Tocantins,0,TO,Tocantins,Norte,-5.6012,-47.6381,17,9613,63,America/Sao_Paulo
+5107925,Sorriso,0,MT,Mato Grosso,Centro-Oeste,-12.5425,-55.7211,51,9907,66,America/Porto_Velho
+1507904,Soure,0,PA,Pará,Norte,-0.73032,-48.5015,15,557,91,America/Sao_Paulo
+1720853,Sucupira,0,TO,Tocantins,Norte,-11.993,-48.9685,17,335,63,America/Sao_Paulo
+2111904,Sucupira do Norte,0,MA,Maranhão,Nordeste,-6.47839,-44.1919,21,931,99,America/Sao_Paulo
+2111953,Sucupira do Riachão,0,MA,Maranhão,Nordeste,-6.40858,-43.5455,21,256,99,America/Sao_Paulo
+5107941,Tabaporã,0,MT,Mato Grosso,Centro-Oeste,-11.3007,-56.8312,51,125,66,America/Porto_Velho
+1304062,Tabatinga,0,AM,Amazonas,Norte,-4.2416,-69.9383,13,9847,97,America/Rio_Branco
+1720903,Taguatinga,0,TO,Tocantins,Norte,-12.4026,-46.437,17,9615,63,America/Sao_Paulo
+1507953,Tailândia,0,PA,Pará,Norte,-2.94584,-48.9489,15,395,91,America/Sao_Paulo
+1720937,Taipas do Tocantins,0,TO,Tocantins,Norte,-12.1873,-46.9797,17,325,63,America/Sao_Paulo
+1720978,Talismã,0,TO,Tocantins,Norte,-12.7949,-49.0896,17,100,63,America/Sao_Paulo
+5107958,Tangará da Serra,0,MT,Mato Grosso,Centro-Oeste,-14.6229,-57.4933,51,9185,65,America/Porto_Velho
+1304104,Tapauá,0,AM,Amazonas,Norte,-5.62085,-63.1808,13,279,97,America/Porto_Velho
+5108006,Tapurah,0,MT,Mato Grosso,Centro-Oeste,-12.695,-56.5178,51,9763,66,America/Porto_Velho
+1200609,Tarauacá,0,AC,Acre,Norte,-8.15697,-70.7722,12,147,68,America/Rio_Branco
+1600709,Tartarugalzinho,0,AP,Amapá,Norte,1.50652,-50.9087,16,617,96,America/Sao_Paulo
+2112001,Tasso Fragoso,0,MA,Maranhão,Nordeste,-8.4662,-45.7536,21,933,99,America/Sao_Paulo
+1304203,Tefé,0,AM,Amazonas,Norte,-3.36822,-64.7193,13,281,97,America/Porto_Velho
+1101559,Teixeirópolis,0,RO,Rondônia,Norte,-10.9056,-62.242,11,22,69,America/Porto_Velho
+1507961,Terra Alta,0,PA,Pará,Norte,-1.02963,-47.9004,15,373,91,America/Sao_Paulo
+5108055,Terra Nova do Norte,0,MT,Mato Grosso,Centro-Oeste,-10.517,-55.231,51,9909,66,America/Porto_Velho
+1507979,Terra Santa,0,PA,Pará,Norte,-2.10443,-56.4877,15,637,93,America/Sao_Paulo
+5108105,Tesouro,0,MT,Mato Grosso,Centro-Oeste,-16.0809,-53.559,51,9161,66,America/Porto_Velho
+1101609,Theobroma,0,RO,Rondônia,Norte,-10.2483,-62.3538,11,975,69,America/Porto_Velho
+2112100,Timbiras,0,MA,Maranhão,Nordeste,-4.25597,-43.932,21,935,99,America/Sao_Paulo
+2112209,Timon,0,MA,Maranhão,Nordeste,-5.09769,-42.8329,21,937,99,America/Sao_Paulo
+1721109,Tocantínia,0,TO,Tocantins,Norte,-9.5632,-48.3741,17,9619,63,America/Sao_Paulo
+1721208,Tocantinópolis,0,TO,Tocantins,Norte,-6.32447,-47.4224,17,9621,63,America/Sao_Paulo
+1508001,Tomé-Açu,0,PA,Pará,Norte,-2.41302,-48.1415,15,559,91,America/Sao_Paulo
+1304237,Tonantins,0,AM,Amazonas,Norte,-2.86582,-67.7919,13,9851,97,America/Porto_Velho
+5108204,Torixoréu,0,MT,Mato Grosso,Centro-Oeste,-16.2006,-52.5571,51,9163,66,America/Porto_Velho
+1508035,Tracuateua,0,PA,Pará,Norte,-1.07653,-46.9031,15,68,91,America/Sao_Paulo
+1508050,Trairão,0,PA,Pará,Norte,-4.57347,-55.9429,15,635,93,America/Sao_Paulo
+2112233,Trizidela do Vale,0,MA,Maranhão,Nordeste,-4.538,-44.628,21,258,99,America/Sao_Paulo
+1508084,Tucumã,0,PA,Pará,Norte,-6.74687,-51.1626,15,397,94,America/Sao_Paulo
+1508100,Tucuruí,0,PA,Pará,Norte,-3.7657,-49.6773,15,561,94,America/Sao_Paulo
+2112274,Tufilândia,0,MA,Maranhão,Nordeste,-3.67355,-45.6238,21,260,98,America/Sao_Paulo
+2112308,Tuntum,0,MA,Maranhão,Nordeste,-5.25476,-44.6444,21,939,99,America/Sao_Paulo
+1721257,Tupirama,0,TO,Tocantins,Norte,-8.97168,-48.1883,17,102,63,America/Sao_Paulo
+1721307,Tupiratins,0,TO,Tocantins,Norte,-8.39388,-48.1277,17,365,63,America/Sao_Paulo
+2112407,Turiaçu,0,MA,Maranhão,Nordeste,-1.65893,-45.3798,21,941,98,America/Sao_Paulo
+2112456,Turilândia,0,MA,Maranhão,Nordeste,-2.21638,-45.3044,21,262,98,America/Sao_Paulo
+2112506,Tutóia,0,MA,Maranhão,Nordeste,-2.76141,-42.2755,21,943,98,America/Sao_Paulo
+1304260,Uarini,0,AM,Amazonas,Norte,-2.99609,-65.1133,13,9849,97,America/Porto_Velho
+1400704,Uiramutã,0,RR,Roraima,Norte,4.60314,-60.1815,14,38,95,America/Porto_Velho
+1508126,Ulianópolis,0,PA,Pará,Norte,-3.75007,-47.4892,15,623,91,America/Sao_Paulo
+5108303,União do Sul,0,MT,Mato Grosso,Centro-Oeste,-11.5308,-54.3616,51,1048,66,America/Porto_Velho
+2112605,Urbano Santos,0,MA,Maranhão,Nordeste,-3.20642,-43.3878,21,945,98,America/Sao_Paulo
+1508159,Uruará,0,PA,Pará,Norte,-3.71519,-53.7396,15,399,93,America/Sao_Paulo
+1304302,Urucará,0,AM,Amazonas,Norte,-2.52936,-57.7538,13,285,92,America/Porto_Velho
+1304401,Urucurituba,0,AM,Amazonas,Norte,-3.12841,-58.1496,13,287,92,America/Porto_Velho
+1101708,Urupá,0,RO,Rondônia,Norte,-11.1261,-62.3639,11,977,69,America/Porto_Velho
+5108352,Vale de São Domingos,0,MT,Mato Grosso,Centro-Oeste,-15.286,-59.0683,51,1102,65,America/Porto_Velho
+1101757,Vale do Anari,0,RO,Rondônia,Norte,-9.86215,-62.1876,11,24,69,America/Porto_Velho
+1101807,Vale do Paraíso,0,RO,Rondônia,Norte,-10.4465,-62.1352,11,979,69,America/Porto_Velho
+2112704,Vargem Grande,0,MA,Maranhão,Nordeste,-3.53639,-43.917,21,947,98,America/Sao_Paulo
+5108402,Várzea Grande,0,MT,Mato Grosso,Centro-Oeste,-15.6458,-56.1322,51,9167,65,America/Porto_Velho
+5108501,Vera,0,MT,Mato Grosso,Centro-Oeste,-12.3017,-55.3045,51,9905,66,America/Porto_Velho
+2112803,Viana,0,MA,Maranhão,Nordeste,-3.20451,-44.9912,21,949,98,America/Sao_Paulo
+1508209,Vigia,0,PA,Pará,Norte,-0.861194,-48.1386,15,563,91,America/Sao_Paulo
+5105507,Vila Bela da Santíssima Trindade,0,MT,Mato Grosso,Centro-Oeste,-15.0068,-59.9504,51,9109,65,America/Porto_Velho
+2112852,Vila Nova dos Martírios,0,MA,Maranhão,Nordeste,-5.18889,-48.1336,21,264,99,America/Sao_Paulo
+5108600,Vila Rica,0,MT,Mato Grosso,Centro-Oeste,-10.0137,-51.1186,51,9897,66,America/Porto_Velho
+1100304,Vilhena,0,RO,Rondônia,Norte,-12.7502,-60.1488,11,13,69,America/Porto_Velho
+1508308,Viseu,0,PA,Pará,Norte,-1.19124,-46.1399,15,565,91,America/Sao_Paulo
+1600808,Vitória do Jari,0,AP,Amapá,Norte,-0.938,-52.424,16,70,96,America/Sao_Paulo
+2112902,Vitória do Mearim,0,MA,Maranhão,Nordeste,-3.45125,-44.8643,21,951,98,America/Sao_Paulo
+1508357,Vitória do Xingu,0,PA,Pará,Norte,-2.87922,-52.0088,15,641,93,America/Sao_Paulo
+2113009,Vitorino Freire,0,MA,Maranhão,Nordeste,-4.28184,-45.2505,21,953,98,America/Sao_Paulo
+1722081,Wanderlândia,0,TO,Tocantins,Norte,-6.85274,-47.9601,17,9665,63,America/Sao_Paulo
+1722107,Xambioá,0,TO,Tocantins,Norte,-6.4141,-48.532,17,9643,63,America/Sao_Paulo
+1200708,Xapuri,0,AC,Acre,Norte,-10.6516,-68.4969,12,149,68,America/Rio_Branco
+1508407,Xinguara,0,PA,Pará,Norte,-7.0983,-49.9437,15,571,94,America/Sao_Paulo
+2114007,Zé Doca,0,MA,Maranhão,Nordeste,-3.27014,-45.6553,21,1287,98,America/Sao_Paulo
